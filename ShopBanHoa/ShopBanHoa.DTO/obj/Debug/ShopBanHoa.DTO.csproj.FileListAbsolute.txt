@@ -1,0 +1,5 @@
+C:\Users\TUAN\source\repos\ShopBanHoa\ShopBanHoa.DTO\bin\Debug\ShopBanHoa.DTO.dll
+C:\Users\TUAN\source\repos\ShopBanHoa\ShopBanHoa.DTO\bin\Debug\ShopBanHoa.DTO.pdb
+C:\Users\TUAN\source\repos\ShopBanHoa\ShopBanHoa.DTO\obj\Debug\ShopBanHoa.DTO.csproj.CoreCompileInputs.cache
+C:\Users\TUAN\source\repos\ShopBanHoa\ShopBanHoa.DTO\obj\Debug\ShopBanHoa.DTO.dll
+C:\Users\TUAN\source\repos\ShopBanHoa\ShopBanHoa.DTO\obj\Debug\ShopBanHoa.DTO.pdb
