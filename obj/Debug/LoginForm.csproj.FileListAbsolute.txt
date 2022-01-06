@@ -1,0 +1,10 @@
+C:\Users\PC\Downloads\CNPM\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\PC\Downloads\CNPM\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\PC\Downloads\CNPM\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\PC\Downloads\CNPM\WindowsFormsApp1\obj\Debug\LoginForm.csproj.AssemblyReference.cache
+C:\Users\PC\Downloads\CNPM\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.LoginForm.resources
+C:\Users\PC\Downloads\CNPM\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\PC\Downloads\CNPM\WindowsFormsApp1\obj\Debug\LoginForm.csproj.GenerateResource.cache
+C:\Users\PC\Downloads\CNPM\WindowsFormsApp1\obj\Debug\LoginForm.csproj.CoreCompileInputs.cache
+C:\Users\PC\Downloads\CNPM\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\PC\Downloads\CNPM\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
