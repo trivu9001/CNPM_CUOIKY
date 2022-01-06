@@ -64,7 +64,7 @@ namespace WindowsFormsApp1.DAO
         {
 
             string query = "Exec GetSanPhamByID @MASP";
-            DataTable data = DataProvider.Instance.ExecuteQuery(query, new Object[] { a });
+            DataTable data = DataProvider.Instance.ExecuteQuery(query, new Object[] { "'"+a+ "'" });
             return data;
         }
 
