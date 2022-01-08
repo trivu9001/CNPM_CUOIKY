@@ -2,7 +2,7 @@
 B1:vào folder Database, chạy file database.sql 
 
 
-B2:Vào folder CNPM_CUOIKY chọn file WindowFromApp1.sln để chay
+B2:Vào folder CNPM_CUOIKY1 chọn file WindowFromApp1.sln để chay
 
 
 B3:
@@ -14,7 +14,7 @@ Sửa lại cấu hình database trong file
 DataProvider.cs (trong folder DAO) dòng 12 và file QuanLyNhanVien.cs (trong folder QLBH) dòng 68, 81 
 
 
-Trong folder CNPM_CUOIKY => folder DAO => Dataprovider.cs dòng thứ 26
+Trong folder CNPM_CUOIKY1 => folder DAO => Dataprovider.cs dòng thứ 26
 
 
 ShopBanHoa/QuanLySanPham.cs => Thay đổi DataSource ở dòng 51
