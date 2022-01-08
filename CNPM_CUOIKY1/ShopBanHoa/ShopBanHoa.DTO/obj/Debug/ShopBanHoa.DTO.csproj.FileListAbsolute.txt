@@ -1,0 +1,16 @@
+C:\Users\TUAN\source\repos\ShopBanHoa\ShopBanHoa.DTO\bin\Debug\ShopBanHoa.DTO.dll
+C:\Users\TUAN\source\repos\ShopBanHoa\ShopBanHoa.DTO\bin\Debug\ShopBanHoa.DTO.pdb
+C:\Users\TUAN\source\repos\ShopBanHoa\ShopBanHoa.DTO\obj\Debug\ShopBanHoa.DTO.csproj.CoreCompileInputs.cache
+C:\Users\TUAN\source\repos\ShopBanHoa\ShopBanHoa.DTO\obj\Debug\ShopBanHoa.DTO.dll
+C:\Users\TUAN\source\repos\ShopBanHoa\ShopBanHoa.DTO\obj\Debug\ShopBanHoa.DTO.pdb
+C:\Users\TUAN\Desktop\CNPM_CUOIKY\CNPM_CUOIKY\ShopBanHoa\ShopBanHoa.DTO\bin\Debug\ShopBanHoa.DTO.dll
+C:\Users\TUAN\Desktop\CNPM_CUOIKY\CNPM_CUOIKY\ShopBanHoa\ShopBanHoa.DTO\bin\Debug\ShopBanHoa.DTO.pdb
+C:\Users\TUAN\Desktop\CNPM_CUOIKY\CNPM_CUOIKY\ShopBanHoa\ShopBanHoa.DTO\obj\Debug\ShopBanHoa.DTO.csproj.CoreCompileInputs.cache
+C:\Users\TUAN\Desktop\CNPM_CUOIKY\CNPM_CUOIKY\ShopBanHoa\ShopBanHoa.DTO\obj\Debug\ShopBanHoa.DTO.dll
+C:\Users\TUAN\Desktop\CNPM_CUOIKY\CNPM_CUOIKY\ShopBanHoa\ShopBanHoa.DTO\obj\Debug\ShopBanHoa.DTO.pdb
+C:\Users\uyenv\Downloads\CNPM_CUOIKY\CNPM_CUOIKY\ShopBanHoa\ShopBanHoa.DTO\bin\Debug\ShopBanHoa.DTO.dll
+C:\Users\uyenv\Downloads\CNPM_CUOIKY\CNPM_CUOIKY\ShopBanHoa\ShopBanHoa.DTO\bin\Debug\ShopBanHoa.DTO.pdb
+C:\Users\uyenv\Downloads\CNPM_CUOIKY\CNPM_CUOIKY\ShopBanHoa\ShopBanHoa.DTO\obj\Debug\ShopBanHoa.DTO.csproj.AssemblyReference.cache
+C:\Users\uyenv\Downloads\CNPM_CUOIKY\CNPM_CUOIKY\ShopBanHoa\ShopBanHoa.DTO\obj\Debug\ShopBanHoa.DTO.csproj.CoreCompileInputs.cache
+C:\Users\uyenv\Downloads\CNPM_CUOIKY\CNPM_CUOIKY\ShopBanHoa\ShopBanHoa.DTO\obj\Debug\ShopBanHoa.DTO.dll
+C:\Users\uyenv\Downloads\CNPM_CUOIKY\CNPM_CUOIKY\ShopBanHoa\ShopBanHoa.DTO\obj\Debug\ShopBanHoa.DTO.pdb

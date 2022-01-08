@@ -1,0 +1,135 @@
+C:\Users\TUAN\source\repos\ShopBanHoa\ShopBanHoa\bin\Debug\ShopBanHoa.exe.config
+C:\Users\TUAN\source\repos\ShopBanHoa\ShopBanHoa\bin\Debug\ShopBanHoa.exe
+C:\Users\TUAN\source\repos\ShopBanHoa\ShopBanHoa\bin\Debug\ShopBanHoa.pdb
+C:\Users\TUAN\source\repos\ShopBanHoa\ShopBanHoa\obj\Debug\ShopBanHoa.csproj.AssemblyReference.cache
+C:\Users\TUAN\source\repos\ShopBanHoa\ShopBanHoa\obj\Debug\ShopBanHoa.Properties.Resources.resources
+C:\Users\TUAN\source\repos\ShopBanHoa\ShopBanHoa\obj\Debug\ShopBanHoa.csproj.GenerateResource.cache
+C:\Users\TUAN\source\repos\ShopBanHoa\ShopBanHoa\obj\Debug\ShopBanHoa.csproj.CoreCompileInputs.cache
+C:\Users\TUAN\source\repos\ShopBanHoa\ShopBanHoa\obj\Debug\ShopBanHoa.exe
+C:\Users\TUAN\source\repos\ShopBanHoa\ShopBanHoa\obj\Debug\ShopBanHoa.pdb
+C:\Users\TUAN\source\repos\ShopBanHoa\ShopBanHoa\obj\Debug\ShopBanHoa.ThemSanPham.resources
+C:\Users\TUAN\source\repos\ShopBanHoa\ShopBanHoa\obj\Debug\ShopBanHoa.QuanLySanPham.resources
+C:\Users\TUAN\source\repos\ShopBanHoa\ShopBanHoa\bin\Debug\ShopBanHoa.BUS.dll
+C:\Users\TUAN\source\repos\ShopBanHoa\ShopBanHoa\bin\Debug\ShopBanHoa.DAO.dll
+C:\Users\TUAN\source\repos\ShopBanHoa\ShopBanHoa\bin\Debug\ShopBanHoa.DTO.dll
+C:\Users\TUAN\source\repos\ShopBanHoa\ShopBanHoa\bin\Debug\ShopBanHoa.BUS.pdb
+C:\Users\TUAN\source\repos\ShopBanHoa\ShopBanHoa\bin\Debug\ShopBanHoa.DAO.pdb
+C:\Users\TUAN\source\repos\ShopBanHoa\ShopBanHoa\bin\Debug\ShopBanHoa.DTO.pdb
+C:\Users\TUAN\source\repos\ShopBanHoa\ShopBanHoa\obj\Debug\ShopBanHoa.csproj.CopyComplete
+C:\Users\TUAN\source\repos\ShopBanHoa\ShopBanHoa\obj\Debug\ShopBanHoa.ChiTietSanPham.resources
+C:\Users\TUAN\Desktop\CNPM_CUOIKY\CNPM_CUOIKY\ShopBanHoa\ShopBanHoa\bin\Debug\ShopBanHoa.exe.config
+C:\Users\TUAN\Desktop\CNPM_CUOIKY\CNPM_CUOIKY\ShopBanHoa\ShopBanHoa\bin\Debug\ShopBanHoa.exe
+C:\Users\TUAN\Desktop\CNPM_CUOIKY\CNPM_CUOIKY\ShopBanHoa\ShopBanHoa\bin\Debug\ShopBanHoa.pdb
+C:\Users\TUAN\Desktop\CNPM_CUOIKY\CNPM_CUOIKY\ShopBanHoa\ShopBanHoa\bin\Debug\ShopBanHoa.BUS.dll
+C:\Users\TUAN\Desktop\CNPM_CUOIKY\CNPM_CUOIKY\ShopBanHoa\ShopBanHoa\bin\Debug\ShopBanHoa.DAO.dll
+C:\Users\TUAN\Desktop\CNPM_CUOIKY\CNPM_CUOIKY\ShopBanHoa\ShopBanHoa\bin\Debug\ShopBanHoa.DTO.dll
+C:\Users\TUAN\Desktop\CNPM_CUOIKY\CNPM_CUOIKY\ShopBanHoa\ShopBanHoa\bin\Debug\ShopBanHoa.BUS.pdb
+C:\Users\TUAN\Desktop\CNPM_CUOIKY\CNPM_CUOIKY\ShopBanHoa\ShopBanHoa\bin\Debug\ShopBanHoa.DAO.pdb
+C:\Users\TUAN\Desktop\CNPM_CUOIKY\CNPM_CUOIKY\ShopBanHoa\ShopBanHoa\bin\Debug\ShopBanHoa.DTO.pdb
+C:\Users\TUAN\Desktop\CNPM_CUOIKY\CNPM_CUOIKY\ShopBanHoa\ShopBanHoa\obj\Debug\ShopBanHoa.csproj.AssemblyReference.cache
+C:\Users\TUAN\Desktop\CNPM_CUOIKY\CNPM_CUOIKY\ShopBanHoa\ShopBanHoa\obj\Debug\ShopBanHoa.ChiTietSanPham.resources
+C:\Users\TUAN\Desktop\CNPM_CUOIKY\CNPM_CUOIKY\ShopBanHoa\ShopBanHoa\obj\Debug\ShopBanHoa.QuanLySanPham.resources
+C:\Users\TUAN\Desktop\CNPM_CUOIKY\CNPM_CUOIKY\ShopBanHoa\ShopBanHoa\obj\Debug\ShopBanHoa.ThemSanPham.resources
+C:\Users\TUAN\Desktop\CNPM_CUOIKY\CNPM_CUOIKY\ShopBanHoa\ShopBanHoa\obj\Debug\ShopBanHoa.Properties.Resources.resources
+C:\Users\TUAN\Desktop\CNPM_CUOIKY\CNPM_CUOIKY\ShopBanHoa\ShopBanHoa\obj\Debug\ShopBanHoa.csproj.GenerateResource.cache
+C:\Users\TUAN\Desktop\CNPM_CUOIKY\CNPM_CUOIKY\ShopBanHoa\ShopBanHoa\obj\Debug\ShopBanHoa.csproj.CoreCompileInputs.cache
+C:\Users\TUAN\Desktop\CNPM_CUOIKY\CNPM_CUOIKY\ShopBanHoa\ShopBanHoa\obj\Debug\ShopBanHoa.csproj.CopyComplete
+C:\Users\TUAN\Desktop\CNPM_CUOIKY\CNPM_CUOIKY\ShopBanHoa\ShopBanHoa\obj\Debug\ShopBanHoa.exe
+C:\Users\TUAN\Desktop\CNPM_CUOIKY\CNPM_CUOIKY\ShopBanHoa\ShopBanHoa\obj\Debug\ShopBanHoa.pdb
+C:\Users\PC\Downloads\New folder (21)\CNPM_CUOIKY\CNPM_CUOIKY\ShopBanHoa\ShopBanHoa\bin\Debug\ShopBanHoa.exe.config
+C:\Users\PC\Downloads\New folder (21)\CNPM_CUOIKY\CNPM_CUOIKY\ShopBanHoa\ShopBanHoa\bin\Debug\ShopBanHoa.exe
+C:\Users\PC\Downloads\New folder (21)\CNPM_CUOIKY\CNPM_CUOIKY\ShopBanHoa\ShopBanHoa\bin\Debug\ShopBanHoa.pdb
+C:\Users\PC\Downloads\New folder (21)\CNPM_CUOIKY\CNPM_CUOIKY\ShopBanHoa\ShopBanHoa\bin\Debug\ShopBanHoa.BUS.dll
+C:\Users\PC\Downloads\New folder (21)\CNPM_CUOIKY\CNPM_CUOIKY\ShopBanHoa\ShopBanHoa\bin\Debug\ShopBanHoa.DAO.dll
+C:\Users\PC\Downloads\New folder (21)\CNPM_CUOIKY\CNPM_CUOIKY\ShopBanHoa\ShopBanHoa\bin\Debug\ShopBanHoa.DTO.dll
+C:\Users\PC\Downloads\New folder (21)\CNPM_CUOIKY\CNPM_CUOIKY\ShopBanHoa\ShopBanHoa\bin\Debug\ShopBanHoa.BUS.pdb
+C:\Users\PC\Downloads\New folder (21)\CNPM_CUOIKY\CNPM_CUOIKY\ShopBanHoa\ShopBanHoa\bin\Debug\ShopBanHoa.DAO.pdb
+C:\Users\PC\Downloads\New folder (21)\CNPM_CUOIKY\CNPM_CUOIKY\ShopBanHoa\ShopBanHoa\bin\Debug\ShopBanHoa.DTO.pdb
+C:\Users\PC\Downloads\New folder (21)\CNPM_CUOIKY\CNPM_CUOIKY\ShopBanHoa\ShopBanHoa\obj\Debug\ShopBanHoa.csproj.AssemblyReference.cache
+C:\Users\PC\Downloads\New folder (21)\CNPM_CUOIKY\CNPM_CUOIKY\ShopBanHoa\ShopBanHoa\obj\Debug\ShopBanHoa.ChiTietSanPham.resources
+C:\Users\PC\Downloads\New folder (21)\CNPM_CUOIKY\CNPM_CUOIKY\ShopBanHoa\ShopBanHoa\obj\Debug\ShopBanHoa.QuanLySanPham.resources
+C:\Users\PC\Downloads\New folder (21)\CNPM_CUOIKY\CNPM_CUOIKY\ShopBanHoa\ShopBanHoa\obj\Debug\ShopBanHoa.ThemSanPham.resources
+C:\Users\PC\Downloads\New folder (21)\CNPM_CUOIKY\CNPM_CUOIKY\ShopBanHoa\ShopBanHoa\obj\Debug\ShopBanHoa.Properties.Resources.resources
+C:\Users\PC\Downloads\New folder (21)\CNPM_CUOIKY\CNPM_CUOIKY\ShopBanHoa\ShopBanHoa\obj\Debug\ShopBanHoa.csproj.GenerateResource.cache
+C:\Users\PC\Downloads\New folder (21)\CNPM_CUOIKY\CNPM_CUOIKY\ShopBanHoa\ShopBanHoa\obj\Debug\ShopBanHoa.csproj.CoreCompileInputs.cache
+C:\Users\PC\Downloads\New folder (21)\CNPM_CUOIKY\CNPM_CUOIKY\ShopBanHoa\ShopBanHoa\obj\Debug\ShopBanHoa.csproj.CopyComplete
+C:\Users\PC\Downloads\New folder (21)\CNPM_CUOIKY\CNPM_CUOIKY\ShopBanHoa\ShopBanHoa\obj\Debug\ShopBanHoa.exe
+C:\Users\PC\Downloads\New folder (21)\CNPM_CUOIKY\CNPM_CUOIKY\ShopBanHoa\ShopBanHoa\obj\Debug\ShopBanHoa.pdb
+C:\Users\uyenv\Downloads\CNPM_CUOIKY\CNPM_CUOIKY\ShopBanHoa\ShopBanHoa\bin\Debug\ShopBanHoa.exe.config
+C:\Users\uyenv\Downloads\CNPM_CUOIKY\CNPM_CUOIKY\ShopBanHoa\ShopBanHoa\bin\Debug\ShopBanHoa.exe
+C:\Users\uyenv\Downloads\CNPM_CUOIKY\CNPM_CUOIKY\ShopBanHoa\ShopBanHoa\bin\Debug\ShopBanHoa.pdb
+C:\Users\uyenv\Downloads\CNPM_CUOIKY\CNPM_CUOIKY\ShopBanHoa\ShopBanHoa\bin\Debug\ShopBanHoa.BUS.dll
+C:\Users\uyenv\Downloads\CNPM_CUOIKY\CNPM_CUOIKY\ShopBanHoa\ShopBanHoa\bin\Debug\ShopBanHoa.DAO.dll
+C:\Users\uyenv\Downloads\CNPM_CUOIKY\CNPM_CUOIKY\ShopBanHoa\ShopBanHoa\bin\Debug\ShopBanHoa.DTO.dll
+C:\Users\uyenv\Downloads\CNPM_CUOIKY\CNPM_CUOIKY\ShopBanHoa\ShopBanHoa\bin\Debug\ShopBanHoa.BUS.pdb
+C:\Users\uyenv\Downloads\CNPM_CUOIKY\CNPM_CUOIKY\ShopBanHoa\ShopBanHoa\bin\Debug\ShopBanHoa.DAO.pdb
+C:\Users\uyenv\Downloads\CNPM_CUOIKY\CNPM_CUOIKY\ShopBanHoa\ShopBanHoa\bin\Debug\ShopBanHoa.DTO.pdb
+C:\Users\uyenv\Downloads\CNPM_CUOIKY\CNPM_CUOIKY\ShopBanHoa\ShopBanHoa\obj\Debug\ShopBanHoa.csproj.AssemblyReference.cache
+C:\Users\uyenv\Downloads\CNPM_CUOIKY\CNPM_CUOIKY\ShopBanHoa\ShopBanHoa\obj\Debug\ShopBanHoa.csproj.SuggestedBindingRedirects.cache
+C:\Users\uyenv\Downloads\CNPM_CUOIKY\CNPM_CUOIKY\ShopBanHoa\ShopBanHoa\obj\Debug\ShopBanHoa.ChiTietSanPham.resources
+C:\Users\uyenv\Downloads\CNPM_CUOIKY\CNPM_CUOIKY\ShopBanHoa\ShopBanHoa\obj\Debug\ShopBanHoa.QuanLySanPham.resources
+C:\Users\uyenv\Downloads\CNPM_CUOIKY\CNPM_CUOIKY\ShopBanHoa\ShopBanHoa\obj\Debug\ShopBanHoa.ThemSanPham.resources
+C:\Users\uyenv\Downloads\CNPM_CUOIKY\CNPM_CUOIKY\ShopBanHoa\ShopBanHoa\obj\Debug\ShopBanHoa.Properties.Resources.resources
+C:\Users\uyenv\Downloads\CNPM_CUOIKY\CNPM_CUOIKY\ShopBanHoa\ShopBanHoa\obj\Debug\ShopBanHoa.csproj.GenerateResource.cache
+C:\Users\uyenv\Downloads\CNPM_CUOIKY\CNPM_CUOIKY\ShopBanHoa\ShopBanHoa\obj\Debug\ShopBanHoa.csproj.CoreCompileInputs.cache
+C:\Users\uyenv\Downloads\CNPM_CUOIKY\CNPM_CUOIKY\ShopBanHoa\ShopBanHoa\obj\Debug\ShopBanHoa.csproj.CopyComplete
+C:\Users\uyenv\Downloads\CNPM_CUOIKY\CNPM_CUOIKY\ShopBanHoa\ShopBanHoa\obj\Debug\ShopBanHoa.exe
+C:\Users\uyenv\Downloads\CNPM_CUOIKY\CNPM_CUOIKY\ShopBanHoa\ShopBanHoa\obj\Debug\ShopBanHoa.pdb
+D:\Software Engineering\final\CNPM_CUOIKY\CNPM_CUOIKY\ShopBanHoa\ShopBanHoa\bin\Debug\ShopBanHoa.exe.config
+D:\Software Engineering\final\CNPM_CUOIKY\CNPM_CUOIKY\ShopBanHoa\ShopBanHoa\bin\Debug\ShopBanHoa.exe
+D:\Software Engineering\final\CNPM_CUOIKY\CNPM_CUOIKY\ShopBanHoa\ShopBanHoa\bin\Debug\ShopBanHoa.pdb
+D:\Software Engineering\final\CNPM_CUOIKY\CNPM_CUOIKY\ShopBanHoa\ShopBanHoa\bin\Debug\ShopBanHoa.BUS.dll
+D:\Software Engineering\final\CNPM_CUOIKY\CNPM_CUOIKY\ShopBanHoa\ShopBanHoa\bin\Debug\ShopBanHoa.DAO.dll
+D:\Software Engineering\final\CNPM_CUOIKY\CNPM_CUOIKY\ShopBanHoa\ShopBanHoa\bin\Debug\ShopBanHoa.DTO.dll
+D:\Software Engineering\final\CNPM_CUOIKY\CNPM_CUOIKY\ShopBanHoa\ShopBanHoa\bin\Debug\ShopBanHoa.BUS.pdb
+D:\Software Engineering\final\CNPM_CUOIKY\CNPM_CUOIKY\ShopBanHoa\ShopBanHoa\bin\Debug\ShopBanHoa.DAO.pdb
+D:\Software Engineering\final\CNPM_CUOIKY\CNPM_CUOIKY\ShopBanHoa\ShopBanHoa\bin\Debug\ShopBanHoa.DTO.pdb
+D:\Software Engineering\final\CNPM_CUOIKY\CNPM_CUOIKY\ShopBanHoa\ShopBanHoa\obj\Debug\ShopBanHoa.csproj.AssemblyReference.cache
+D:\Software Engineering\final\CNPM_CUOIKY\CNPM_CUOIKY\ShopBanHoa\ShopBanHoa\obj\Debug\ShopBanHoa.csproj.SuggestedBindingRedirects.cache
+D:\Software Engineering\final\CNPM_CUOIKY\CNPM_CUOIKY\ShopBanHoa\ShopBanHoa\obj\Debug\ShopBanHoa.ChiTietSanPham.resources
+D:\Software Engineering\final\CNPM_CUOIKY\CNPM_CUOIKY\ShopBanHoa\ShopBanHoa\obj\Debug\ShopBanHoa.QuanLySanPham.resources
+D:\Software Engineering\final\CNPM_CUOIKY\CNPM_CUOIKY\ShopBanHoa\ShopBanHoa\obj\Debug\ShopBanHoa.ThemSanPham.resources
+D:\Software Engineering\final\CNPM_CUOIKY\CNPM_CUOIKY\ShopBanHoa\ShopBanHoa\obj\Debug\ShopBanHoa.Properties.Resources.resources
+D:\Software Engineering\final\CNPM_CUOIKY\CNPM_CUOIKY\ShopBanHoa\ShopBanHoa\obj\Debug\ShopBanHoa.csproj.GenerateResource.cache
+D:\Software Engineering\final\CNPM_CUOIKY\CNPM_CUOIKY\ShopBanHoa\ShopBanHoa\obj\Debug\ShopBanHoa.csproj.CoreCompileInputs.cache
+D:\Software Engineering\final\CNPM_CUOIKY\CNPM_CUOIKY\ShopBanHoa\ShopBanHoa\obj\Debug\ShopBanHoa.csproj.CopyComplete
+D:\Software Engineering\final\CNPM_CUOIKY\CNPM_CUOIKY\ShopBanHoa\ShopBanHoa\obj\Debug\ShopBanHoa.exe
+D:\Software Engineering\final\CNPM_CUOIKY\CNPM_CUOIKY\ShopBanHoa\ShopBanHoa\obj\Debug\ShopBanHoa.pdb
+D:\cnpm\2\CNPM_CUOIKY\CNPM_CUOIKY\CNPM_CUOIKY\ShopBanHoa\ShopBanHoa\bin\Debug\ShopBanHoa.exe.config
+D:\cnpm\2\CNPM_CUOIKY\CNPM_CUOIKY\CNPM_CUOIKY\ShopBanHoa\ShopBanHoa\bin\Debug\ShopBanHoa.exe
+D:\cnpm\2\CNPM_CUOIKY\CNPM_CUOIKY\CNPM_CUOIKY\ShopBanHoa\ShopBanHoa\bin\Debug\ShopBanHoa.pdb
+D:\cnpm\2\CNPM_CUOIKY\CNPM_CUOIKY\CNPM_CUOIKY\ShopBanHoa\ShopBanHoa\bin\Debug\ShopBanHoa.BUS.dll
+D:\cnpm\2\CNPM_CUOIKY\CNPM_CUOIKY\CNPM_CUOIKY\ShopBanHoa\ShopBanHoa\bin\Debug\ShopBanHoa.DAO.dll
+D:\cnpm\2\CNPM_CUOIKY\CNPM_CUOIKY\CNPM_CUOIKY\ShopBanHoa\ShopBanHoa\bin\Debug\ShopBanHoa.DTO.dll
+D:\cnpm\2\CNPM_CUOIKY\CNPM_CUOIKY\CNPM_CUOIKY\ShopBanHoa\ShopBanHoa\bin\Debug\ShopBanHoa.BUS.pdb
+D:\cnpm\2\CNPM_CUOIKY\CNPM_CUOIKY\CNPM_CUOIKY\ShopBanHoa\ShopBanHoa\bin\Debug\ShopBanHoa.DAO.pdb
+D:\cnpm\2\CNPM_CUOIKY\CNPM_CUOIKY\CNPM_CUOIKY\ShopBanHoa\ShopBanHoa\bin\Debug\ShopBanHoa.DTO.pdb
+D:\cnpm\2\CNPM_CUOIKY\CNPM_CUOIKY\CNPM_CUOIKY\ShopBanHoa\ShopBanHoa\obj\Debug\ShopBanHoa.csproj.AssemblyReference.cache
+D:\cnpm\2\CNPM_CUOIKY\CNPM_CUOIKY\CNPM_CUOIKY\ShopBanHoa\ShopBanHoa\obj\Debug\ShopBanHoa.ChiTietSanPham.resources
+D:\cnpm\2\CNPM_CUOIKY\CNPM_CUOIKY\CNPM_CUOIKY\ShopBanHoa\ShopBanHoa\obj\Debug\ShopBanHoa.QuanLySanPham.resources
+D:\cnpm\2\CNPM_CUOIKY\CNPM_CUOIKY\CNPM_CUOIKY\ShopBanHoa\ShopBanHoa\obj\Debug\ShopBanHoa.ThemSanPham.resources
+D:\cnpm\2\CNPM_CUOIKY\CNPM_CUOIKY\CNPM_CUOIKY\ShopBanHoa\ShopBanHoa\obj\Debug\ShopBanHoa.Properties.Resources.resources
+D:\cnpm\2\CNPM_CUOIKY\CNPM_CUOIKY\CNPM_CUOIKY\ShopBanHoa\ShopBanHoa\obj\Debug\ShopBanHoa.csproj.GenerateResource.cache
+D:\cnpm\2\CNPM_CUOIKY\CNPM_CUOIKY\CNPM_CUOIKY\ShopBanHoa\ShopBanHoa\obj\Debug\ShopBanHoa.csproj.CoreCompileInputs.cache
+D:\cnpm\2\CNPM_CUOIKY\CNPM_CUOIKY\CNPM_CUOIKY\ShopBanHoa\ShopBanHoa\obj\Debug\ShopBanHoa.csproj.CopyComplete
+D:\cnpm\2\CNPM_CUOIKY\CNPM_CUOIKY\CNPM_CUOIKY\ShopBanHoa\ShopBanHoa\obj\Debug\ShopBanHoa.exe
+D:\cnpm\2\CNPM_CUOIKY\CNPM_CUOIKY\CNPM_CUOIKY\ShopBanHoa\ShopBanHoa\obj\Debug\ShopBanHoa.pdb
+C:\Users\PC\Downloads\New folder (38)\CNPM_CUOIKY\CNPM_CUOIKY\CNPM_CUOIKY\ShopBanHoa\ShopBanHoa\obj\Debug\ShopBanHoa.csproj.AssemblyReference.cache
+C:\Users\PC\Downloads\New folder (38)\CNPM_CUOIKY\CNPM_CUOIKY\CNPM_CUOIKY\ShopBanHoa\ShopBanHoa\obj\Debug\ShopBanHoa.ChiTietSanPham.resources
+C:\Users\PC\Downloads\New folder (38)\CNPM_CUOIKY\CNPM_CUOIKY\CNPM_CUOIKY\ShopBanHoa\ShopBanHoa\obj\Debug\ShopBanHoa.QuanLySanPham.resources
+C:\Users\PC\Downloads\New folder (38)\CNPM_CUOIKY\CNPM_CUOIKY\CNPM_CUOIKY\ShopBanHoa\ShopBanHoa\obj\Debug\ShopBanHoa.ThemSanPham.resources
+C:\Users\PC\Downloads\New folder (38)\CNPM_CUOIKY\CNPM_CUOIKY\CNPM_CUOIKY\ShopBanHoa\ShopBanHoa\obj\Debug\ShopBanHoa.Properties.Resources.resources
+C:\Users\PC\Downloads\New folder (38)\CNPM_CUOIKY\CNPM_CUOIKY\CNPM_CUOIKY\ShopBanHoa\ShopBanHoa\obj\Debug\ShopBanHoa.csproj.GenerateResource.cache
+C:\Users\PC\Downloads\New folder (38)\CNPM_CUOIKY\CNPM_CUOIKY\CNPM_CUOIKY\ShopBanHoa\ShopBanHoa\obj\Debug\ShopBanHoa.csproj.CoreCompileInputs.cache
+C:\Users\PC\Downloads\New folder (38)\CNPM_CUOIKY\CNPM_CUOIKY\CNPM_CUOIKY\ShopBanHoa\ShopBanHoa\obj\Debug\ShopBanHoa.exe
+C:\Users\PC\Downloads\New folder (38)\CNPM_CUOIKY\CNPM_CUOIKY\CNPM_CUOIKY\ShopBanHoa\ShopBanHoa\obj\Debug\ShopBanHoa.pdb
+C:\Users\PC\Downloads\New folder (38)\CNPM_CUOIKY\CNPM_CUOIKY\CNPM_CUOIKY\ShopBanHoa\ShopBanHoa\bin\Debug\ShopBanHoa.exe.config
+C:\Users\PC\Downloads\New folder (38)\CNPM_CUOIKY\CNPM_CUOIKY\CNPM_CUOIKY\ShopBanHoa\ShopBanHoa\bin\Debug\ShopBanHoa.exe
+C:\Users\PC\Downloads\New folder (38)\CNPM_CUOIKY\CNPM_CUOIKY\CNPM_CUOIKY\ShopBanHoa\ShopBanHoa\bin\Debug\ShopBanHoa.pdb
+C:\Users\PC\Downloads\New folder (38)\CNPM_CUOIKY\CNPM_CUOIKY\CNPM_CUOIKY\ShopBanHoa\ShopBanHoa\bin\Debug\ShopBanHoa.BUS.dll
+C:\Users\PC\Downloads\New folder (38)\CNPM_CUOIKY\CNPM_CUOIKY\CNPM_CUOIKY\ShopBanHoa\ShopBanHoa\bin\Debug\ShopBanHoa.DAO.dll
+C:\Users\PC\Downloads\New folder (38)\CNPM_CUOIKY\CNPM_CUOIKY\CNPM_CUOIKY\ShopBanHoa\ShopBanHoa\bin\Debug\ShopBanHoa.DTO.dll
+C:\Users\PC\Downloads\New folder (38)\CNPM_CUOIKY\CNPM_CUOIKY\CNPM_CUOIKY\ShopBanHoa\ShopBanHoa\bin\Debug\ShopBanHoa.BUS.pdb
+C:\Users\PC\Downloads\New folder (38)\CNPM_CUOIKY\CNPM_CUOIKY\CNPM_CUOIKY\ShopBanHoa\ShopBanHoa\bin\Debug\ShopBanHoa.DAO.pdb
+C:\Users\PC\Downloads\New folder (38)\CNPM_CUOIKY\CNPM_CUOIKY\CNPM_CUOIKY\ShopBanHoa\ShopBanHoa\bin\Debug\ShopBanHoa.DTO.pdb
+C:\Users\PC\Downloads\New folder (38)\CNPM_CUOIKY\CNPM_CUOIKY\CNPM_CUOIKY\ShopBanHoa\ShopBanHoa\obj\Debug\ShopBanHoa.csproj.CopyComplete
