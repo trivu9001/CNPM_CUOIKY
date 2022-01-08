@@ -1,0 +1,38 @@
+D:\Software Engineering\final\CNPM_CUOIKY\UnitTest\obj\Debug\UnitTestQLBH.csproj.AssemblyReference.cache
+D:\Software Engineering\final\CNPM_CUOIKY\UnitTest\obj\Debug\UnitTestQLBH.csproj.CoreCompileInputs.cache
+D:\Software Engineering\final\CNPM_CUOIKY\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Software Engineering\final\CNPM_CUOIKY\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Software Engineering\final\CNPM_CUOIKY\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Software Engineering\final\CNPM_CUOIKY\UnitTest\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+D:\Software Engineering\final\CNPM_CUOIKY\UnitTest\bin\Debug\UnitTest.dll
+D:\Software Engineering\final\CNPM_CUOIKY\UnitTest\bin\Debug\UnitTest.pdb
+D:\Software Engineering\final\CNPM_CUOIKY\UnitTest\bin\Debug\DAO.dll
+D:\Software Engineering\final\CNPM_CUOIKY\UnitTest\bin\Debug\DTO.dll
+D:\Software Engineering\final\CNPM_CUOIKY\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Software Engineering\final\CNPM_CUOIKY\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Software Engineering\final\CNPM_CUOIKY\UnitTest\bin\Debug\DAO.pdb
+D:\Software Engineering\final\CNPM_CUOIKY\UnitTest\bin\Debug\DTO.pdb
+D:\Software Engineering\final\CNPM_CUOIKY\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Software Engineering\final\CNPM_CUOIKY\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Software Engineering\final\CNPM_CUOIKY\UnitTest\obj\Debug\UnitTestQLBH.csproj.CopyComplete
+D:\Software Engineering\final\CNPM_CUOIKY\UnitTest\obj\Debug\UnitTest.dll
+D:\Software Engineering\final\CNPM_CUOIKY\UnitTest\obj\Debug\UnitTest.pdb
+C:\Users\PC\Downloads\New folder (31)\CNPM_CUOIKY\CNPM_CUOIKY\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\PC\Downloads\New folder (31)\CNPM_CUOIKY\CNPM_CUOIKY\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\PC\Downloads\New folder (31)\CNPM_CUOIKY\CNPM_CUOIKY\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\PC\Downloads\New folder (31)\CNPM_CUOIKY\CNPM_CUOIKY\UnitTest\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\PC\Downloads\New folder (31)\CNPM_CUOIKY\CNPM_CUOIKY\UnitTest\bin\Debug\UnitTest.dll
+C:\Users\PC\Downloads\New folder (31)\CNPM_CUOIKY\CNPM_CUOIKY\UnitTest\bin\Debug\UnitTest.pdb
+C:\Users\PC\Downloads\New folder (31)\CNPM_CUOIKY\CNPM_CUOIKY\UnitTest\bin\Debug\DAO.dll
+C:\Users\PC\Downloads\New folder (31)\CNPM_CUOIKY\CNPM_CUOIKY\UnitTest\bin\Debug\DTO.dll
+C:\Users\PC\Downloads\New folder (31)\CNPM_CUOIKY\CNPM_CUOIKY\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\PC\Downloads\New folder (31)\CNPM_CUOIKY\CNPM_CUOIKY\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\PC\Downloads\New folder (31)\CNPM_CUOIKY\CNPM_CUOIKY\UnitTest\bin\Debug\DAO.pdb
+C:\Users\PC\Downloads\New folder (31)\CNPM_CUOIKY\CNPM_CUOIKY\UnitTest\bin\Debug\DTO.pdb
+C:\Users\PC\Downloads\New folder (31)\CNPM_CUOIKY\CNPM_CUOIKY\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\PC\Downloads\New folder (31)\CNPM_CUOIKY\CNPM_CUOIKY\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\PC\Downloads\New folder (31)\CNPM_CUOIKY\CNPM_CUOIKY\UnitTest\obj\Debug\UnitTestQLBH.csproj.AssemblyReference.cache
+C:\Users\PC\Downloads\New folder (31)\CNPM_CUOIKY\CNPM_CUOIKY\UnitTest\obj\Debug\UnitTestQLBH.csproj.CoreCompileInputs.cache
+C:\Users\PC\Downloads\New folder (31)\CNPM_CUOIKY\CNPM_CUOIKY\UnitTest\obj\Debug\UnitTestQLBH.csproj.CopyComplete
+C:\Users\PC\Downloads\New folder (31)\CNPM_CUOIKY\CNPM_CUOIKY\UnitTest\obj\Debug\UnitTest.dll
+C:\Users\PC\Downloads\New folder (31)\CNPM_CUOIKY\CNPM_CUOIKY\UnitTest\obj\Debug\UnitTest.pdb

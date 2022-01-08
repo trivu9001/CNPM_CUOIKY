@@ -1,0 +1,63 @@
+C:\Users\uyenv\Downloads\CNPM_CUOIKY\DAO\bin\Debug\DAO.dll
+C:\Users\uyenv\Downloads\CNPM_CUOIKY\DAO\bin\Debug\DAO.pdb
+C:\Users\uyenv\Downloads\CNPM_CUOIKY\DAO\bin\Debug\DTO.dll
+C:\Users\uyenv\Downloads\CNPM_CUOIKY\DAO\bin\Debug\DTO.pdb
+C:\Users\uyenv\Downloads\CNPM_CUOIKY\DAO\obj\Debug\DAO.csproj.AssemblyReference.cache
+C:\Users\uyenv\Downloads\CNPM_CUOIKY\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+C:\Users\uyenv\Downloads\CNPM_CUOIKY\DAO\obj\Debug\DAO.csproj.CopyComplete
+C:\Users\uyenv\Downloads\CNPM_CUOIKY\DAO\obj\Debug\DAO.dll
+C:\Users\uyenv\Downloads\CNPM_CUOIKY\DAO\obj\Debug\DAO.pdb
+D:\Software Engineering\final\CNPM_CUOIKY\DAO\bin\Debug\DAO.dll
+D:\Software Engineering\final\CNPM_CUOIKY\DAO\bin\Debug\DAO.pdb
+D:\Software Engineering\final\CNPM_CUOIKY\DAO\bin\Debug\DTO.dll
+D:\Software Engineering\final\CNPM_CUOIKY\DAO\bin\Debug\DTO.pdb
+D:\Software Engineering\final\CNPM_CUOIKY\DAO\obj\Debug\DAO.csproj.AssemblyReference.cache
+D:\Software Engineering\final\CNPM_CUOIKY\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+D:\Software Engineering\final\CNPM_CUOIKY\DAO\obj\Debug\DAO.csproj.CopyComplete
+D:\Software Engineering\final\CNPM_CUOIKY\DAO\obj\Debug\DAO.dll
+D:\Software Engineering\final\CNPM_CUOIKY\DAO\obj\Debug\DAO.pdb
+D:\Software Engineering\final\CNPM_CUOIKY\DAO\bin\Debug\ShopBanHoa.BUS.dll
+D:\Software Engineering\final\CNPM_CUOIKY\DAO\bin\Debug\ShopBanHoa.DAO.dll
+D:\Software Engineering\final\CNPM_CUOIKY\DAO\bin\Debug\ShopBanHoa.DTO.dll
+D:\Software Engineering\final\CNPM_CUOIKY\DAO\bin\Debug\ShopBanHoa.exe
+D:\Software Engineering\final\CNPM_CUOIKY\DAO\bin\Debug\ShopBanHoa.BUS.pdb
+D:\Software Engineering\final\CNPM_CUOIKY\DAO\bin\Debug\ShopBanHoa.DAO.pdb
+D:\Software Engineering\final\CNPM_CUOIKY\DAO\bin\Debug\ShopBanHoa.DTO.pdb
+D:\Software Engineering\final\CNPM_CUOIKY\DAO\bin\Debug\ShopBanHoa.pdb
+D:\Software Engineering\final\CNPM_CUOIKY\DAO\bin\Debug\ShopBanHoa.exe.config
+D:\cnpm\2\CNPM_CUOIKY\CNPM_CUOIKY\DAO\bin\Debug\DAO.dll
+D:\cnpm\2\CNPM_CUOIKY\CNPM_CUOIKY\DAO\bin\Debug\DAO.pdb
+D:\cnpm\2\CNPM_CUOIKY\CNPM_CUOIKY\DAO\bin\Debug\DTO.dll
+D:\cnpm\2\CNPM_CUOIKY\CNPM_CUOIKY\DAO\bin\Debug\ShopBanHoa.BUS.dll
+D:\cnpm\2\CNPM_CUOIKY\CNPM_CUOIKY\DAO\bin\Debug\ShopBanHoa.DAO.dll
+D:\cnpm\2\CNPM_CUOIKY\CNPM_CUOIKY\DAO\bin\Debug\ShopBanHoa.DTO.dll
+D:\cnpm\2\CNPM_CUOIKY\CNPM_CUOIKY\DAO\bin\Debug\ShopBanHoa.exe
+D:\cnpm\2\CNPM_CUOIKY\CNPM_CUOIKY\DAO\bin\Debug\ShopBanHoa.BUS.pdb
+D:\cnpm\2\CNPM_CUOIKY\CNPM_CUOIKY\DAO\bin\Debug\ShopBanHoa.DAO.pdb
+D:\cnpm\2\CNPM_CUOIKY\CNPM_CUOIKY\DAO\bin\Debug\ShopBanHoa.DTO.pdb
+D:\cnpm\2\CNPM_CUOIKY\CNPM_CUOIKY\DAO\bin\Debug\ShopBanHoa.pdb
+D:\cnpm\2\CNPM_CUOIKY\CNPM_CUOIKY\DAO\bin\Debug\ShopBanHoa.exe.config
+D:\cnpm\2\CNPM_CUOIKY\CNPM_CUOIKY\DAO\bin\Debug\DTO.pdb
+D:\cnpm\2\CNPM_CUOIKY\CNPM_CUOIKY\DAO\obj\Debug\DAO.csproj.AssemblyReference.cache
+D:\cnpm\2\CNPM_CUOIKY\CNPM_CUOIKY\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+D:\cnpm\2\CNPM_CUOIKY\CNPM_CUOIKY\DAO\obj\Debug\DAO.csproj.CopyComplete
+D:\cnpm\2\CNPM_CUOIKY\CNPM_CUOIKY\DAO\obj\Debug\DAO.dll
+D:\cnpm\2\CNPM_CUOIKY\CNPM_CUOIKY\DAO\obj\Debug\DAO.pdb
+C:\Users\PC\Downloads\New folder (31)\CNPM_CUOIKY\CNPM_CUOIKY\DAO\bin\Debug\DAO.dll
+C:\Users\PC\Downloads\New folder (31)\CNPM_CUOIKY\CNPM_CUOIKY\DAO\bin\Debug\DAO.pdb
+C:\Users\PC\Downloads\New folder (31)\CNPM_CUOIKY\CNPM_CUOIKY\DAO\bin\Debug\DTO.dll
+C:\Users\PC\Downloads\New folder (31)\CNPM_CUOIKY\CNPM_CUOIKY\DAO\bin\Debug\ShopBanHoa.BUS.dll
+C:\Users\PC\Downloads\New folder (31)\CNPM_CUOIKY\CNPM_CUOIKY\DAO\bin\Debug\ShopBanHoa.DAO.dll
+C:\Users\PC\Downloads\New folder (31)\CNPM_CUOIKY\CNPM_CUOIKY\DAO\bin\Debug\ShopBanHoa.DTO.dll
+C:\Users\PC\Downloads\New folder (31)\CNPM_CUOIKY\CNPM_CUOIKY\DAO\bin\Debug\ShopBanHoa.exe
+C:\Users\PC\Downloads\New folder (31)\CNPM_CUOIKY\CNPM_CUOIKY\DAO\bin\Debug\ShopBanHoa.BUS.pdb
+C:\Users\PC\Downloads\New folder (31)\CNPM_CUOIKY\CNPM_CUOIKY\DAO\bin\Debug\ShopBanHoa.DAO.pdb
+C:\Users\PC\Downloads\New folder (31)\CNPM_CUOIKY\CNPM_CUOIKY\DAO\bin\Debug\ShopBanHoa.DTO.pdb
+C:\Users\PC\Downloads\New folder (31)\CNPM_CUOIKY\CNPM_CUOIKY\DAO\bin\Debug\ShopBanHoa.pdb
+C:\Users\PC\Downloads\New folder (31)\CNPM_CUOIKY\CNPM_CUOIKY\DAO\bin\Debug\ShopBanHoa.exe.config
+C:\Users\PC\Downloads\New folder (31)\CNPM_CUOIKY\CNPM_CUOIKY\DAO\bin\Debug\DTO.pdb
+C:\Users\PC\Downloads\New folder (31)\CNPM_CUOIKY\CNPM_CUOIKY\DAO\obj\Debug\DAO.csproj.AssemblyReference.cache
+C:\Users\PC\Downloads\New folder (31)\CNPM_CUOIKY\CNPM_CUOIKY\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+C:\Users\PC\Downloads\New folder (31)\CNPM_CUOIKY\CNPM_CUOIKY\DAO\obj\Debug\DAO.csproj.CopyComplete
+C:\Users\PC\Downloads\New folder (31)\CNPM_CUOIKY\CNPM_CUOIKY\DAO\obj\Debug\DAO.dll
+C:\Users\PC\Downloads\New folder (31)\CNPM_CUOIKY\CNPM_CUOIKY\DAO\obj\Debug\DAO.pdb

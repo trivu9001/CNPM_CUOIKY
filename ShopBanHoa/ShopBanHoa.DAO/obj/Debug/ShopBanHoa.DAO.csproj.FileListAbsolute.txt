@@ -1,9 +1,0 @@
-C:\Users\TUAN\source\repos\ShopBanHoa\ShopBanHoa.DAO\bin\Debug\ShopBanHoa.DAO.dll
-C:\Users\TUAN\source\repos\ShopBanHoa\ShopBanHoa.DAO\bin\Debug\ShopBanHoa.DAO.pdb
-C:\Users\TUAN\source\repos\ShopBanHoa\ShopBanHoa.DAO\bin\Debug\ShopBanHoa.DTO.dll
-C:\Users\TUAN\source\repos\ShopBanHoa\ShopBanHoa.DAO\bin\Debug\ShopBanHoa.DTO.pdb
-C:\Users\TUAN\source\repos\ShopBanHoa\ShopBanHoa.DAO\obj\Debug\ShopBanHoa.DAO.csproj.AssemblyReference.cache
-C:\Users\TUAN\source\repos\ShopBanHoa\ShopBanHoa.DAO\obj\Debug\ShopBanHoa.DAO.csproj.CoreCompileInputs.cache
-C:\Users\TUAN\source\repos\ShopBanHoa\ShopBanHoa.DAO\obj\Debug\ShopBanHoa.DAO.csproj.CopyComplete
-C:\Users\TUAN\source\repos\ShopBanHoa\ShopBanHoa.DAO\obj\Debug\ShopBanHoa.DAO.dll
-C:\Users\TUAN\source\repos\ShopBanHoa\ShopBanHoa.DAO\obj\Debug\ShopBanHoa.DAO.pdb

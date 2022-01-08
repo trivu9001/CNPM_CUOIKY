@@ -1,0 +1,56 @@
+C:\Users\uyenv\Downloads\CNPM_CUOIKY\BUS\bin\Debug\BUS.dll
+C:\Users\uyenv\Downloads\CNPM_CUOIKY\BUS\bin\Debug\BUS.pdb
+C:\Users\uyenv\Downloads\CNPM_CUOIKY\BUS\bin\Debug\DAO.dll
+C:\Users\uyenv\Downloads\CNPM_CUOIKY\BUS\bin\Debug\DTO.dll
+C:\Users\uyenv\Downloads\CNPM_CUOIKY\BUS\bin\Debug\DAO.pdb
+C:\Users\uyenv\Downloads\CNPM_CUOIKY\BUS\bin\Debug\DTO.pdb
+C:\Users\uyenv\Downloads\CNPM_CUOIKY\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+C:\Users\uyenv\Downloads\CNPM_CUOIKY\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\uyenv\Downloads\CNPM_CUOIKY\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\uyenv\Downloads\CNPM_CUOIKY\BUS\obj\Debug\BUS.dll
+C:\Users\uyenv\Downloads\CNPM_CUOIKY\BUS\obj\Debug\BUS.pdb
+D:\Software Engineering\final\CNPM_CUOIKY\BUS\bin\Debug\BUS.dll
+D:\Software Engineering\final\CNPM_CUOIKY\BUS\bin\Debug\BUS.pdb
+D:\Software Engineering\final\CNPM_CUOIKY\BUS\bin\Debug\DAO.dll
+D:\Software Engineering\final\CNPM_CUOIKY\BUS\bin\Debug\DTO.dll
+D:\Software Engineering\final\CNPM_CUOIKY\BUS\bin\Debug\DAO.pdb
+D:\Software Engineering\final\CNPM_CUOIKY\BUS\bin\Debug\DTO.pdb
+D:\Software Engineering\final\CNPM_CUOIKY\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+D:\Software Engineering\final\CNPM_CUOIKY\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\Software Engineering\final\CNPM_CUOIKY\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\Software Engineering\final\CNPM_CUOIKY\BUS\obj\Debug\BUS.dll
+D:\Software Engineering\final\CNPM_CUOIKY\BUS\obj\Debug\BUS.pdb
+D:\Software Engineering\final\CNPM_CUOIKY\BUS\bin\Debug\BUS.dll.config
+D:\Software Engineering\final\CNPM_CUOIKY\BUS\bin\Debug\Microsoft.Data.Tools.Components.dll
+D:\Software Engineering\final\CNPM_CUOIKY\BUS\bin\Debug\Microsoft.Data.Tools.Schema.Sql.dll
+D:\Software Engineering\final\CNPM_CUOIKY\BUS\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTesting.dll
+D:\Software Engineering\final\CNPM_CUOIKY\BUS\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTestingAdapter.dll
+D:\Software Engineering\final\CNPM_CUOIKY\BUS\bin\Debug\Microsoft.Data.Tools.Utilities.dll
+D:\Software Engineering\final\CNPM_CUOIKY\BUS\bin\Debug\Microsoft.SqlServer.TransactSql.ScriptDom.dll
+D:\Software Engineering\final\CNPM_CUOIKY\BUS\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\cnpm\2\CNPM_CUOIKY\CNPM_CUOIKY\BUS\bin\Debug\BUS.dll.config
+D:\cnpm\2\CNPM_CUOIKY\CNPM_CUOIKY\BUS\bin\Debug\BUS.dll
+D:\cnpm\2\CNPM_CUOIKY\CNPM_CUOIKY\BUS\bin\Debug\BUS.pdb
+D:\cnpm\2\CNPM_CUOIKY\CNPM_CUOIKY\BUS\bin\Debug\DAO.dll
+D:\cnpm\2\CNPM_CUOIKY\CNPM_CUOIKY\BUS\bin\Debug\DTO.dll
+D:\cnpm\2\CNPM_CUOIKY\CNPM_CUOIKY\BUS\bin\Debug\Microsoft.Data.Tools.Components.dll
+D:\cnpm\2\CNPM_CUOIKY\CNPM_CUOIKY\BUS\bin\Debug\DAO.pdb
+D:\cnpm\2\CNPM_CUOIKY\CNPM_CUOIKY\BUS\bin\Debug\DTO.pdb
+D:\cnpm\2\CNPM_CUOIKY\CNPM_CUOIKY\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+D:\cnpm\2\CNPM_CUOIKY\CNPM_CUOIKY\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\cnpm\2\CNPM_CUOIKY\CNPM_CUOIKY\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\cnpm\2\CNPM_CUOIKY\CNPM_CUOIKY\BUS\obj\Debug\BUS.dll
+D:\cnpm\2\CNPM_CUOIKY\CNPM_CUOIKY\BUS\obj\Debug\BUS.pdb
+C:\Users\PC\Downloads\New folder (31)\CNPM_CUOIKY\CNPM_CUOIKY\BUS\bin\Debug\BUS.dll.config
+C:\Users\PC\Downloads\New folder (31)\CNPM_CUOIKY\CNPM_CUOIKY\BUS\bin\Debug\BUS.dll
+C:\Users\PC\Downloads\New folder (31)\CNPM_CUOIKY\CNPM_CUOIKY\BUS\bin\Debug\BUS.pdb
+C:\Users\PC\Downloads\New folder (31)\CNPM_CUOIKY\CNPM_CUOIKY\BUS\bin\Debug\DAO.dll
+C:\Users\PC\Downloads\New folder (31)\CNPM_CUOIKY\CNPM_CUOIKY\BUS\bin\Debug\DTO.dll
+C:\Users\PC\Downloads\New folder (31)\CNPM_CUOIKY\CNPM_CUOIKY\BUS\bin\Debug\Microsoft.Data.Tools.Components.dll
+C:\Users\PC\Downloads\New folder (31)\CNPM_CUOIKY\CNPM_CUOIKY\BUS\bin\Debug\DAO.pdb
+C:\Users\PC\Downloads\New folder (31)\CNPM_CUOIKY\CNPM_CUOIKY\BUS\bin\Debug\DTO.pdb
+C:\Users\PC\Downloads\New folder (31)\CNPM_CUOIKY\CNPM_CUOIKY\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+C:\Users\PC\Downloads\New folder (31)\CNPM_CUOIKY\CNPM_CUOIKY\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\PC\Downloads\New folder (31)\CNPM_CUOIKY\CNPM_CUOIKY\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\PC\Downloads\New folder (31)\CNPM_CUOIKY\CNPM_CUOIKY\BUS\obj\Debug\BUS.dll
+C:\Users\PC\Downloads\New folder (31)\CNPM_CUOIKY\CNPM_CUOIKY\BUS\obj\Debug\BUS.pdb
