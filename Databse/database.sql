@@ -54,15 +54,15 @@ create table LICHLAMVIEC(
 	CA int,
 	primary key(MALLV,MANV,CA)
 )
-
+go
 create table CHITIETGIOHANG(
 	MAKH varchar(10) FOREIGN KEY REFERENCES KHACHHANG(MAKH),
-	MASP varchar(10) FOREIGN KEY REFERENCES KHACHHANG(MAKH),
+	MASP varchar(10) FOREIGN KEY REFERENCES SANPHAM(MASP),
 	SL INT,
 	PRIMARY KEY(MAKH, MASP)
 )
 
-
+go
 /*
 drop table HOADONBANHANG
 drop table CHITIETGIOHANG
@@ -119,17 +119,18 @@ insert into LICHLAMVIEC values
 ('L0002','2/4/2022','NV004',2),
 ('L0002','2/4/2022','NV007',2)
 
+GO
 Create  PROC GetSanPhamList
 AS Select * From SANPHAM
 Go
 
-Execute GetSanPhamList
+/*Execute GetSanPhamList*/
 
 Create  PROC GetChiTietGioHang
 AS Select * From CHITIETGIOHANG
 Go
 
-Execute GetChiTietGioHang
+/*Execute GetChiTietGioHang*/
 
 /* them vao gio hang */
 CREATE PROCEDURE Insert_GioHang
@@ -159,8 +160,9 @@ ELSE
 
 END
 
+Go
 /*Drop proc Insert_GioHang*/
-Exec Insert_GioHang 'KH001','SP001',10
+/*Exec Insert_GioHang 'KH001','SP001',10*/
 
 Create  PROC GetSanPhamByID
 (
@@ -171,7 +173,7 @@ Go
 
 
 
-Exec GetSanPhamByID "SP010"
+/*Exec GetSanPhamByID "SP010"*/
 
 Create  PROC DeleteGioHangByID
 (
@@ -182,7 +184,7 @@ Go
 
 
 
-Exec DeleteGioHangByID "SP010"
+/*Exec DeleteGioHangByID "SP010"*/
 
 CREATE PROCEDURE Update_GioHang
 (
@@ -209,14 +211,18 @@ ELSE
 
 END
 
+go
+/*
 exec Update_GioHang 'KH001','SP010',0
+*/
 
 CREATE PROC Tong_Tien
 as
 SELECT SUM(SANPHAM.GIABAN*CHITIETGIOHANG.SL)  FROM CHITIETGIOHANG,SANPHAM WHERE CHITIETGIOHANG.MASP=SANPHAM.MASP;
-
+go
+/*
 EXEC Tong_Tien 
-
+*/
 
 
 
@@ -231,6 +237,7 @@ as
 	end
 GO
 
-
+/*
 Exec SearchLike 'SP002', null, 'HỒN'
 exec SearchLike 'SP002', 'M', 'hồ'
+*/
