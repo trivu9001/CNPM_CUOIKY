@@ -47,19 +47,19 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\CNPM_CUOIKY\ShopBanHoa\ShopBanHoa.BUS\ShopBanHoa.BUS.csproj">
+    <ProjectReference Include="..\CNPM_CUOIKY1\ShopBanHoa\ShopBanHoa.BUS\ShopBanHoa.BUS.csproj">
       <Project>{252223b3-98e3-43a5-a177-e9d9f1ee7821}</Project>
       <Name>ShopBanHoa.BUS</Name>
     </ProjectReference>
-    <ProjectReference Include="..\CNPM_CUOIKY\ShopBanHoa\ShopBanHoa.DAO\ShopBanHoa.DAO.csproj">
+    <ProjectReference Include="..\CNPM_CUOIKY1\ShopBanHoa\ShopBanHoa.DAO\ShopBanHoa.DAO.csproj">
       <Project>{0703d776-5768-45b3-846d-bfe3582fe737}</Project>
       <Name>ShopBanHoa.DAO</Name>
     </ProjectReference>
-    <ProjectReference Include="..\CNPM_CUOIKY\ShopBanHoa\ShopBanHoa.DTO\ShopBanHoa.DTO.csproj">
+    <ProjectReference Include="..\CNPM_CUOIKY1\ShopBanHoa\ShopBanHoa.DTO\ShopBanHoa.DTO.csproj">
       <Project>{cc78f6a9-5747-430c-849f-c4c6b5e5a5e9}</Project>
       <Name>ShopBanHoa.DTO</Name>
     </ProjectReference>
-    <ProjectReference Include="..\CNPM_CUOIKY\ShopBanHoa\ShopBanHoa\ShopBanHoa.csproj">
+    <ProjectReference Include="..\CNPM_CUOIKY1\ShopBanHoa\ShopBanHoa\ShopBanHoa.csproj">
       <Project>{f8b48e6d-e8ff-49a9-93bb-eedda5b9d7b4}</Project>
       <Name>ShopBanHoa</Name>
     </ProjectReference>
