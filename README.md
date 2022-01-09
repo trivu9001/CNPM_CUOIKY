@@ -30,4 +30,4 @@ B4:
 
 Đăng nhập bằng tài khoản :NVSP , MẬT KHẨU :123456=>Trang quản lý Sản phẩm của nhân viên sản phẩm
 
-Đăng nhập bằng tài khoản :NVBH , MẬT KHẨU :123456=>Trang quản lý Sản phẩm của nhân viên sản phẩm
+Đăng nhập bằng tài khoản :NVBH , MẬT KHẨU :123456=>Trang bán Sản phẩm của nhân viên bán hàng
