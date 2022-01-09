@@ -16,3 +16,9 @@ C:\Users\PC\Downloads\New folder (34)\DTO\obj\Debug\DTO.csproj.AssemblyReference
 C:\Users\PC\Downloads\New folder (34)\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
 C:\Users\PC\Downloads\New folder (34)\DTO\obj\Debug\DTO.dll
 C:\Users\PC\Downloads\New folder (34)\DTO\obj\Debug\DTO.pdb
+C:\Users\PC\Downloads\New folder (41)\DTO\bin\Debug\DTO.dll
+C:\Users\PC\Downloads\New folder (41)\DTO\bin\Debug\DTO.pdb
+C:\Users\PC\Downloads\New folder (41)\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+C:\Users\PC\Downloads\New folder (41)\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\PC\Downloads\New folder (41)\DTO\obj\Debug\DTO.dll
+C:\Users\PC\Downloads\New folder (41)\DTO\obj\Debug\DTO.pdb

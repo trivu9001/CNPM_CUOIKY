@@ -67,3 +67,16 @@ C:\Users\PC\Downloads\New folder (34)\BUS\obj\Debug\BUS.csproj.CoreCompileInputs
 C:\Users\PC\Downloads\New folder (34)\BUS\obj\Debug\BUS.csproj.CopyComplete
 C:\Users\PC\Downloads\New folder (34)\BUS\obj\Debug\BUS.dll
 C:\Users\PC\Downloads\New folder (34)\BUS\obj\Debug\BUS.pdb
+C:\Users\PC\Downloads\New folder (41)\BUS\bin\Debug\BUS.dll.config
+C:\Users\PC\Downloads\New folder (41)\BUS\bin\Debug\BUS.dll
+C:\Users\PC\Downloads\New folder (41)\BUS\bin\Debug\BUS.pdb
+C:\Users\PC\Downloads\New folder (41)\BUS\bin\Debug\DAO.dll
+C:\Users\PC\Downloads\New folder (41)\BUS\bin\Debug\DTO.dll
+C:\Users\PC\Downloads\New folder (41)\BUS\bin\Debug\Microsoft.Data.Tools.Components.dll
+C:\Users\PC\Downloads\New folder (41)\BUS\bin\Debug\DAO.pdb
+C:\Users\PC\Downloads\New folder (41)\BUS\bin\Debug\DTO.pdb
+C:\Users\PC\Downloads\New folder (41)\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+C:\Users\PC\Downloads\New folder (41)\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\PC\Downloads\New folder (41)\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\PC\Downloads\New folder (41)\BUS\obj\Debug\BUS.dll
+C:\Users\PC\Downloads\New folder (41)\BUS\obj\Debug\BUS.pdb

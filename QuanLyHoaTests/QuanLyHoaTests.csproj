@@ -63,7 +63,7 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\CNPM_CUOIKY1\QuanLyHoa.csproj">
+    <ProjectReference Include="..\CNPM_CUOIKY\QuanLyHoa.csproj">
       <Project>{C49DA2EC-AB97-47C4-884E-C631E42E6A00}</Project>
       <Name>QuanLyHoa</Name>
     </ProjectReference>
