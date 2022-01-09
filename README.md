@@ -29,3 +29,5 @@ B4:
 Đăng nhập bằng tài khoản :QuanLy , MẬT KHẨU :123456=>Trang quản lý nhân viên, lịch làm việc của quản lý cửa hàng
 
 Đăng nhập bằng tài khoản :NVSP , MẬT KHẨU :123456=>Trang quản lý Sản phẩm của nhân viên sản phẩm
+
+Đăng nhập bằng tài khoản :NVBH , MẬT KHẨU :123456=>Trang quản lý Sản phẩm của nhân viên sản phẩm

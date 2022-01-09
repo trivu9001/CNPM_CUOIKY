@@ -9,6 +9,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using QLBH;
 using ShopBanHoa;
+using WindowsFormsApp1.App;
 
 namespace WindowsFormsApp1
 {
@@ -44,6 +45,13 @@ namespace WindowsFormsApp1
             {
                 this.Hide();
                 QuanLySanPham f = new QuanLySanPham();
+                f.ShowDialog();
+                this.Show();
+            }
+            if (day == 4)
+            {
+                this.Hide();
+                fNhanVienBanHang f = new fNhanVienBanHang();
                 f.ShowDialog();
                 this.Show();
             }

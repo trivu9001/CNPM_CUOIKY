@@ -129,3 +129,69 @@ C:\Users\PC\Downloads\New folder (41)\QLBH\obj\Debug\QLBH.csproj.CoreCompileInpu
 C:\Users\PC\Downloads\New folder (41)\QLBH\obj\Debug\QLBH.csproj.CopyComplete
 C:\Users\PC\Downloads\New folder (41)\QLBH\obj\Debug\QLBH.exe
 C:\Users\PC\Downloads\New folder (41)\QLBH\obj\Debug\QLBH.pdb
+D:\me\Công nghệ phần mềm\Final report\Demo\CNPM_CUOIKY-main\QLBH\bin\Debug\QLBH.exe.config
+D:\me\Công nghệ phần mềm\Final report\Demo\CNPM_CUOIKY-main\QLBH\bin\Debug\QLBH.exe
+D:\me\Công nghệ phần mềm\Final report\Demo\CNPM_CUOIKY-main\QLBH\bin\Debug\QLBH.pdb
+D:\me\Công nghệ phần mềm\Final report\Demo\CNPM_CUOIKY-main\QLBH\bin\Debug\BUS.dll
+D:\me\Công nghệ phần mềm\Final report\Demo\CNPM_CUOIKY-main\QLBH\bin\Debug\DAO.dll
+D:\me\Công nghệ phần mềm\Final report\Demo\CNPM_CUOIKY-main\QLBH\bin\Debug\DTO.dll
+D:\me\Công nghệ phần mềm\Final report\Demo\CNPM_CUOIKY-main\QLBH\bin\Debug\BUS.pdb
+D:\me\Công nghệ phần mềm\Final report\Demo\CNPM_CUOIKY-main\QLBH\bin\Debug\BUS.dll.config
+D:\me\Công nghệ phần mềm\Final report\Demo\CNPM_CUOIKY-main\QLBH\bin\Debug\DAO.pdb
+D:\me\Công nghệ phần mềm\Final report\Demo\CNPM_CUOIKY-main\QLBH\bin\Debug\DTO.pdb
+D:\me\Công nghệ phần mềm\Final report\Demo\CNPM_CUOIKY-main\QLBH\obj\Debug\QLBH.csproj.AssemblyReference.cache
+D:\me\Công nghệ phần mềm\Final report\Demo\CNPM_CUOIKY-main\QLBH\obj\Debug\QLBH.ChiTietNhanVien.resources
+D:\me\Công nghệ phần mềm\Final report\Demo\CNPM_CUOIKY-main\QLBH\obj\Debug\QLBH.Properties.Resources.resources
+D:\me\Công nghệ phần mềm\Final report\Demo\CNPM_CUOIKY-main\QLBH\obj\Debug\QLBH.QuanLyNhanVien.resources
+D:\me\Công nghệ phần mềm\Final report\Demo\CNPM_CUOIKY-main\QLBH\obj\Debug\QLBH.ThemLichLamViec.resources
+D:\me\Công nghệ phần mềm\Final report\Demo\CNPM_CUOIKY-main\QLBH\obj\Debug\QLBH.ThemNhanVien.resources
+D:\me\Công nghệ phần mềm\Final report\Demo\CNPM_CUOIKY-main\QLBH\obj\Debug\QLBH.XemLichLamViec.resources
+D:\me\Công nghệ phần mềm\Final report\Demo\CNPM_CUOIKY-main\QLBH\obj\Debug\QLBH.csproj.GenerateResource.cache
+D:\me\Công nghệ phần mềm\Final report\Demo\CNPM_CUOIKY-main\QLBH\obj\Debug\QLBH.csproj.CoreCompileInputs.cache
+D:\me\Công nghệ phần mềm\Final report\Demo\CNPM_CUOIKY-main\QLBH\obj\Debug\QLBH.csproj.CopyComplete
+D:\me\Công nghệ phần mềm\Final report\Demo\CNPM_CUOIKY-main\QLBH\obj\Debug\QLBH.exe
+D:\me\Công nghệ phần mềm\Final report\Demo\CNPM_CUOIKY-main\QLBH\obj\Debug\QLBH.pdb
+C:\Users\PC\Downloads\New folder (45)\CNPM_CUOIKY-main\CNPM_CUOIKY-main\QLBH\bin\Debug\QLBH.exe.config
+C:\Users\PC\Downloads\New folder (45)\CNPM_CUOIKY-main\CNPM_CUOIKY-main\QLBH\bin\Debug\QLBH.exe
+C:\Users\PC\Downloads\New folder (45)\CNPM_CUOIKY-main\CNPM_CUOIKY-main\QLBH\bin\Debug\QLBH.pdb
+C:\Users\PC\Downloads\New folder (45)\CNPM_CUOIKY-main\CNPM_CUOIKY-main\QLBH\bin\Debug\BUS.dll
+C:\Users\PC\Downloads\New folder (45)\CNPM_CUOIKY-main\CNPM_CUOIKY-main\QLBH\bin\Debug\DAO.dll
+C:\Users\PC\Downloads\New folder (45)\CNPM_CUOIKY-main\CNPM_CUOIKY-main\QLBH\bin\Debug\DTO.dll
+C:\Users\PC\Downloads\New folder (45)\CNPM_CUOIKY-main\CNPM_CUOIKY-main\QLBH\bin\Debug\BUS.pdb
+C:\Users\PC\Downloads\New folder (45)\CNPM_CUOIKY-main\CNPM_CUOIKY-main\QLBH\bin\Debug\BUS.dll.config
+C:\Users\PC\Downloads\New folder (45)\CNPM_CUOIKY-main\CNPM_CUOIKY-main\QLBH\bin\Debug\DAO.pdb
+C:\Users\PC\Downloads\New folder (45)\CNPM_CUOIKY-main\CNPM_CUOIKY-main\QLBH\bin\Debug\DTO.pdb
+C:\Users\PC\Downloads\New folder (45)\CNPM_CUOIKY-main\CNPM_CUOIKY-main\QLBH\obj\Debug\QLBH.csproj.AssemblyReference.cache
+C:\Users\PC\Downloads\New folder (45)\CNPM_CUOIKY-main\CNPM_CUOIKY-main\QLBH\obj\Debug\QLBH.ChiTietNhanVien.resources
+C:\Users\PC\Downloads\New folder (45)\CNPM_CUOIKY-main\CNPM_CUOIKY-main\QLBH\obj\Debug\QLBH.Properties.Resources.resources
+C:\Users\PC\Downloads\New folder (45)\CNPM_CUOIKY-main\CNPM_CUOIKY-main\QLBH\obj\Debug\QLBH.QuanLyNhanVien.resources
+C:\Users\PC\Downloads\New folder (45)\CNPM_CUOIKY-main\CNPM_CUOIKY-main\QLBH\obj\Debug\QLBH.ThemLichLamViec.resources
+C:\Users\PC\Downloads\New folder (45)\CNPM_CUOIKY-main\CNPM_CUOIKY-main\QLBH\obj\Debug\QLBH.ThemNhanVien.resources
+C:\Users\PC\Downloads\New folder (45)\CNPM_CUOIKY-main\CNPM_CUOIKY-main\QLBH\obj\Debug\QLBH.XemLichLamViec.resources
+C:\Users\PC\Downloads\New folder (45)\CNPM_CUOIKY-main\CNPM_CUOIKY-main\QLBH\obj\Debug\QLBH.csproj.GenerateResource.cache
+C:\Users\PC\Downloads\New folder (45)\CNPM_CUOIKY-main\CNPM_CUOIKY-main\QLBH\obj\Debug\QLBH.csproj.CoreCompileInputs.cache
+C:\Users\PC\Downloads\New folder (45)\CNPM_CUOIKY-main\CNPM_CUOIKY-main\QLBH\obj\Debug\QLBH.csproj.CopyComplete
+C:\Users\PC\Downloads\New folder (45)\CNPM_CUOIKY-main\CNPM_CUOIKY-main\QLBH\obj\Debug\QLBH.exe
+C:\Users\PC\Downloads\New folder (45)\CNPM_CUOIKY-main\CNPM_CUOIKY-main\QLBH\obj\Debug\QLBH.pdb
+C:\Users\PC\Downloads\New folder (44)\QLBH\bin\Debug\QLBH.exe.config
+C:\Users\PC\Downloads\New folder (44)\QLBH\bin\Debug\QLBH.exe
+C:\Users\PC\Downloads\New folder (44)\QLBH\bin\Debug\QLBH.pdb
+C:\Users\PC\Downloads\New folder (44)\QLBH\bin\Debug\BUS.dll
+C:\Users\PC\Downloads\New folder (44)\QLBH\bin\Debug\DAO.dll
+C:\Users\PC\Downloads\New folder (44)\QLBH\bin\Debug\DTO.dll
+C:\Users\PC\Downloads\New folder (44)\QLBH\bin\Debug\BUS.pdb
+C:\Users\PC\Downloads\New folder (44)\QLBH\bin\Debug\BUS.dll.config
+C:\Users\PC\Downloads\New folder (44)\QLBH\bin\Debug\DAO.pdb
+C:\Users\PC\Downloads\New folder (44)\QLBH\bin\Debug\DTO.pdb
+C:\Users\PC\Downloads\New folder (44)\QLBH\obj\Debug\QLBH.csproj.AssemblyReference.cache
+C:\Users\PC\Downloads\New folder (44)\QLBH\obj\Debug\QLBH.ChiTietNhanVien.resources
+C:\Users\PC\Downloads\New folder (44)\QLBH\obj\Debug\QLBH.Properties.Resources.resources
+C:\Users\PC\Downloads\New folder (44)\QLBH\obj\Debug\QLBH.QuanLyNhanVien.resources
+C:\Users\PC\Downloads\New folder (44)\QLBH\obj\Debug\QLBH.ThemLichLamViec.resources
+C:\Users\PC\Downloads\New folder (44)\QLBH\obj\Debug\QLBH.ThemNhanVien.resources
+C:\Users\PC\Downloads\New folder (44)\QLBH\obj\Debug\QLBH.XemLichLamViec.resources
+C:\Users\PC\Downloads\New folder (44)\QLBH\obj\Debug\QLBH.csproj.GenerateResource.cache
+C:\Users\PC\Downloads\New folder (44)\QLBH\obj\Debug\QLBH.csproj.CoreCompileInputs.cache
+C:\Users\PC\Downloads\New folder (44)\QLBH\obj\Debug\QLBH.csproj.CopyComplete
+C:\Users\PC\Downloads\New folder (44)\QLBH\obj\Debug\QLBH.exe
+C:\Users\PC\Downloads\New folder (44)\QLBH\obj\Debug\QLBH.pdb

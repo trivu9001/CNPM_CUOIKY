@@ -251,3 +251,105 @@ C:\Users\PC\Downloads\New folder (41)\CNPM_CUOIKY\obj\Debug\QuanLyHoa.csproj.Cor
 C:\Users\PC\Downloads\New folder (41)\CNPM_CUOIKY\obj\Debug\QuanLyHoa.csproj.CopyComplete
 C:\Users\PC\Downloads\New folder (41)\CNPM_CUOIKY\obj\Debug\WindowsFormsApp1.exe
 C:\Users\PC\Downloads\New folder (41)\CNPM_CUOIKY\obj\Debug\WindowsFormsApp1.pdb
+D:\me\Công nghệ phần mềm\Final report\Demo\CNPM_CUOIKY-main\CNPM_CUOIKY\bin\Debug\WindowsFormsApp1.exe.config
+D:\me\Công nghệ phần mềm\Final report\Demo\CNPM_CUOIKY-main\CNPM_CUOIKY\bin\Debug\WindowsFormsApp1.exe
+D:\me\Công nghệ phần mềm\Final report\Demo\CNPM_CUOIKY-main\CNPM_CUOIKY\bin\Debug\WindowsFormsApp1.pdb
+D:\me\Công nghệ phần mềm\Final report\Demo\CNPM_CUOIKY-main\CNPM_CUOIKY\bin\Debug\BUS.dll
+D:\me\Công nghệ phần mềm\Final report\Demo\CNPM_CUOIKY-main\CNPM_CUOIKY\bin\Debug\DAO.dll
+D:\me\Công nghệ phần mềm\Final report\Demo\CNPM_CUOIKY-main\CNPM_CUOIKY\bin\Debug\DTO.dll
+D:\me\Công nghệ phần mềm\Final report\Demo\CNPM_CUOIKY-main\CNPM_CUOIKY\bin\Debug\QLBH.exe
+D:\me\Công nghệ phần mềm\Final report\Demo\CNPM_CUOIKY-main\CNPM_CUOIKY\bin\Debug\ShopBanHoa.BUS.dll
+D:\me\Công nghệ phần mềm\Final report\Demo\CNPM_CUOIKY-main\CNPM_CUOIKY\bin\Debug\ShopBanHoa.DAO.dll
+D:\me\Công nghệ phần mềm\Final report\Demo\CNPM_CUOIKY-main\CNPM_CUOIKY\bin\Debug\ShopBanHoa.DTO.dll
+D:\me\Công nghệ phần mềm\Final report\Demo\CNPM_CUOIKY-main\CNPM_CUOIKY\bin\Debug\ShopBanHoa.exe
+D:\me\Công nghệ phần mềm\Final report\Demo\CNPM_CUOIKY-main\CNPM_CUOIKY\bin\Debug\System.Windows.Forms.Ribbon.dll
+D:\me\Công nghệ phần mềm\Final report\Demo\CNPM_CUOIKY-main\CNPM_CUOIKY\bin\Debug\BUS.pdb
+D:\me\Công nghệ phần mềm\Final report\Demo\CNPM_CUOIKY-main\CNPM_CUOIKY\bin\Debug\BUS.dll.config
+D:\me\Công nghệ phần mềm\Final report\Demo\CNPM_CUOIKY-main\CNPM_CUOIKY\bin\Debug\DAO.pdb
+D:\me\Công nghệ phần mềm\Final report\Demo\CNPM_CUOIKY-main\CNPM_CUOIKY\bin\Debug\DTO.pdb
+D:\me\Công nghệ phần mềm\Final report\Demo\CNPM_CUOIKY-main\CNPM_CUOIKY\bin\Debug\QLBH.pdb
+D:\me\Công nghệ phần mềm\Final report\Demo\CNPM_CUOIKY-main\CNPM_CUOIKY\bin\Debug\QLBH.exe.config
+D:\me\Công nghệ phần mềm\Final report\Demo\CNPM_CUOIKY-main\CNPM_CUOIKY\bin\Debug\ShopBanHoa.BUS.pdb
+D:\me\Công nghệ phần mềm\Final report\Demo\CNPM_CUOIKY-main\CNPM_CUOIKY\bin\Debug\ShopBanHoa.DAO.pdb
+D:\me\Công nghệ phần mềm\Final report\Demo\CNPM_CUOIKY-main\CNPM_CUOIKY\bin\Debug\ShopBanHoa.DTO.pdb
+D:\me\Công nghệ phần mềm\Final report\Demo\CNPM_CUOIKY-main\CNPM_CUOIKY\bin\Debug\ShopBanHoa.pdb
+D:\me\Công nghệ phần mềm\Final report\Demo\CNPM_CUOIKY-main\CNPM_CUOIKY\bin\Debug\ShopBanHoa.exe.config
+D:\me\Công nghệ phần mềm\Final report\Demo\CNPM_CUOIKY-main\CNPM_CUOIKY\obj\Debug\QuanLyHoa.csproj.AssemblyReference.cache
+D:\me\Công nghệ phần mềm\Final report\Demo\CNPM_CUOIKY-main\CNPM_CUOIKY\obj\Debug\WindowsFormsApp1.fKhachHang.resources
+D:\me\Công nghệ phần mềm\Final report\Demo\CNPM_CUOIKY-main\CNPM_CUOIKY\obj\Debug\WindowsFormsApp1.fThanhToanOnline.resources
+D:\me\Công nghệ phần mềm\Final report\Demo\CNPM_CUOIKY-main\CNPM_CUOIKY\obj\Debug\WindowsFormsApp1.LoginForm.resources
+D:\me\Công nghệ phần mềm\Final report\Demo\CNPM_CUOIKY-main\CNPM_CUOIKY\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\me\Công nghệ phần mềm\Final report\Demo\CNPM_CUOIKY-main\CNPM_CUOIKY\obj\Debug\QuanLyHoa.csproj.GenerateResource.cache
+D:\me\Công nghệ phần mềm\Final report\Demo\CNPM_CUOIKY-main\CNPM_CUOIKY\obj\Debug\QuanLyHoa.csproj.CoreCompileInputs.cache
+D:\me\Công nghệ phần mềm\Final report\Demo\CNPM_CUOIKY-main\CNPM_CUOIKY\obj\Debug\QuanLyHoa.csproj.CopyComplete
+D:\me\Công nghệ phần mềm\Final report\Demo\CNPM_CUOIKY-main\CNPM_CUOIKY\obj\Debug\WindowsFormsApp1.exe
+D:\me\Công nghệ phần mềm\Final report\Demo\CNPM_CUOIKY-main\CNPM_CUOIKY\obj\Debug\WindowsFormsApp1.pdb
+D:\me\Công nghệ phần mềm\Final report\Demo\CNPM_CUOIKY-main\CNPM_CUOIKY\obj\Debug\WindowsFormsApp1.App.fNhanVienBanHang.resources
+C:\Users\PC\Downloads\New folder (45)\CNPM_CUOIKY-main\CNPM_CUOIKY-main\CNPM_CUOIKY\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\PC\Downloads\New folder (45)\CNPM_CUOIKY-main\CNPM_CUOIKY-main\CNPM_CUOIKY\bin\Debug\WindowsFormsApp1.exe
+C:\Users\PC\Downloads\New folder (45)\CNPM_CUOIKY-main\CNPM_CUOIKY-main\CNPM_CUOIKY\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\PC\Downloads\New folder (45)\CNPM_CUOIKY-main\CNPM_CUOIKY-main\CNPM_CUOIKY\bin\Debug\BUS.dll
+C:\Users\PC\Downloads\New folder (45)\CNPM_CUOIKY-main\CNPM_CUOIKY-main\CNPM_CUOIKY\bin\Debug\DAO.dll
+C:\Users\PC\Downloads\New folder (45)\CNPM_CUOIKY-main\CNPM_CUOIKY-main\CNPM_CUOIKY\bin\Debug\DTO.dll
+C:\Users\PC\Downloads\New folder (45)\CNPM_CUOIKY-main\CNPM_CUOIKY-main\CNPM_CUOIKY\bin\Debug\QLBH.exe
+C:\Users\PC\Downloads\New folder (45)\CNPM_CUOIKY-main\CNPM_CUOIKY-main\CNPM_CUOIKY\bin\Debug\ShopBanHoa.BUS.dll
+C:\Users\PC\Downloads\New folder (45)\CNPM_CUOIKY-main\CNPM_CUOIKY-main\CNPM_CUOIKY\bin\Debug\ShopBanHoa.DAO.dll
+C:\Users\PC\Downloads\New folder (45)\CNPM_CUOIKY-main\CNPM_CUOIKY-main\CNPM_CUOIKY\bin\Debug\ShopBanHoa.DTO.dll
+C:\Users\PC\Downloads\New folder (45)\CNPM_CUOIKY-main\CNPM_CUOIKY-main\CNPM_CUOIKY\bin\Debug\ShopBanHoa.exe
+C:\Users\PC\Downloads\New folder (45)\CNPM_CUOIKY-main\CNPM_CUOIKY-main\CNPM_CUOIKY\bin\Debug\System.Windows.Forms.Ribbon.dll
+C:\Users\PC\Downloads\New folder (45)\CNPM_CUOIKY-main\CNPM_CUOIKY-main\CNPM_CUOIKY\bin\Debug\BUS.pdb
+C:\Users\PC\Downloads\New folder (45)\CNPM_CUOIKY-main\CNPM_CUOIKY-main\CNPM_CUOIKY\bin\Debug\BUS.dll.config
+C:\Users\PC\Downloads\New folder (45)\CNPM_CUOIKY-main\CNPM_CUOIKY-main\CNPM_CUOIKY\bin\Debug\DAO.pdb
+C:\Users\PC\Downloads\New folder (45)\CNPM_CUOIKY-main\CNPM_CUOIKY-main\CNPM_CUOIKY\bin\Debug\DTO.pdb
+C:\Users\PC\Downloads\New folder (45)\CNPM_CUOIKY-main\CNPM_CUOIKY-main\CNPM_CUOIKY\bin\Debug\QLBH.pdb
+C:\Users\PC\Downloads\New folder (45)\CNPM_CUOIKY-main\CNPM_CUOIKY-main\CNPM_CUOIKY\bin\Debug\QLBH.exe.config
+C:\Users\PC\Downloads\New folder (45)\CNPM_CUOIKY-main\CNPM_CUOIKY-main\CNPM_CUOIKY\bin\Debug\ShopBanHoa.BUS.pdb
+C:\Users\PC\Downloads\New folder (45)\CNPM_CUOIKY-main\CNPM_CUOIKY-main\CNPM_CUOIKY\bin\Debug\ShopBanHoa.DAO.pdb
+C:\Users\PC\Downloads\New folder (45)\CNPM_CUOIKY-main\CNPM_CUOIKY-main\CNPM_CUOIKY\bin\Debug\ShopBanHoa.DTO.pdb
+C:\Users\PC\Downloads\New folder (45)\CNPM_CUOIKY-main\CNPM_CUOIKY-main\CNPM_CUOIKY\bin\Debug\ShopBanHoa.pdb
+C:\Users\PC\Downloads\New folder (45)\CNPM_CUOIKY-main\CNPM_CUOIKY-main\CNPM_CUOIKY\bin\Debug\ShopBanHoa.exe.config
+C:\Users\PC\Downloads\New folder (45)\CNPM_CUOIKY-main\CNPM_CUOIKY-main\CNPM_CUOIKY\obj\Debug\QuanLyHoa.csproj.AssemblyReference.cache
+C:\Users\PC\Downloads\New folder (45)\CNPM_CUOIKY-main\CNPM_CUOIKY-main\CNPM_CUOIKY\obj\Debug\WindowsFormsApp1.fKhachHang.resources
+C:\Users\PC\Downloads\New folder (45)\CNPM_CUOIKY-main\CNPM_CUOIKY-main\CNPM_CUOIKY\obj\Debug\WindowsFormsApp1.App.fNhanVienBanHang.resources
+C:\Users\PC\Downloads\New folder (45)\CNPM_CUOIKY-main\CNPM_CUOIKY-main\CNPM_CUOIKY\obj\Debug\WindowsFormsApp1.fThanhToanOnline.resources
+C:\Users\PC\Downloads\New folder (45)\CNPM_CUOIKY-main\CNPM_CUOIKY-main\CNPM_CUOIKY\obj\Debug\WindowsFormsApp1.LoginForm.resources
+C:\Users\PC\Downloads\New folder (45)\CNPM_CUOIKY-main\CNPM_CUOIKY-main\CNPM_CUOIKY\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\PC\Downloads\New folder (45)\CNPM_CUOIKY-main\CNPM_CUOIKY-main\CNPM_CUOIKY\obj\Debug\QuanLyHoa.csproj.GenerateResource.cache
+C:\Users\PC\Downloads\New folder (45)\CNPM_CUOIKY-main\CNPM_CUOIKY-main\CNPM_CUOIKY\obj\Debug\QuanLyHoa.csproj.CoreCompileInputs.cache
+C:\Users\PC\Downloads\New folder (45)\CNPM_CUOIKY-main\CNPM_CUOIKY-main\CNPM_CUOIKY\obj\Debug\QuanLyHoa.csproj.CopyComplete
+C:\Users\PC\Downloads\New folder (45)\CNPM_CUOIKY-main\CNPM_CUOIKY-main\CNPM_CUOIKY\obj\Debug\WindowsFormsApp1.exe
+C:\Users\PC\Downloads\New folder (45)\CNPM_CUOIKY-main\CNPM_CUOIKY-main\CNPM_CUOIKY\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\PC\Downloads\New folder (44)\CNPM_CUOIKY\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\PC\Downloads\New folder (44)\CNPM_CUOIKY\bin\Debug\WindowsFormsApp1.exe
+C:\Users\PC\Downloads\New folder (44)\CNPM_CUOIKY\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\PC\Downloads\New folder (44)\CNPM_CUOIKY\bin\Debug\BUS.dll
+C:\Users\PC\Downloads\New folder (44)\CNPM_CUOIKY\bin\Debug\DAO.dll
+C:\Users\PC\Downloads\New folder (44)\CNPM_CUOIKY\bin\Debug\DTO.dll
+C:\Users\PC\Downloads\New folder (44)\CNPM_CUOIKY\bin\Debug\QLBH.exe
+C:\Users\PC\Downloads\New folder (44)\CNPM_CUOIKY\bin\Debug\ShopBanHoa.BUS.dll
+C:\Users\PC\Downloads\New folder (44)\CNPM_CUOIKY\bin\Debug\ShopBanHoa.DAO.dll
+C:\Users\PC\Downloads\New folder (44)\CNPM_CUOIKY\bin\Debug\ShopBanHoa.DTO.dll
+C:\Users\PC\Downloads\New folder (44)\CNPM_CUOIKY\bin\Debug\ShopBanHoa.exe
+C:\Users\PC\Downloads\New folder (44)\CNPM_CUOIKY\bin\Debug\System.Windows.Forms.Ribbon.dll
+C:\Users\PC\Downloads\New folder (44)\CNPM_CUOIKY\bin\Debug\BUS.pdb
+C:\Users\PC\Downloads\New folder (44)\CNPM_CUOIKY\bin\Debug\BUS.dll.config
+C:\Users\PC\Downloads\New folder (44)\CNPM_CUOIKY\bin\Debug\DAO.pdb
+C:\Users\PC\Downloads\New folder (44)\CNPM_CUOIKY\bin\Debug\DTO.pdb
+C:\Users\PC\Downloads\New folder (44)\CNPM_CUOIKY\bin\Debug\QLBH.pdb
+C:\Users\PC\Downloads\New folder (44)\CNPM_CUOIKY\bin\Debug\QLBH.exe.config
+C:\Users\PC\Downloads\New folder (44)\CNPM_CUOIKY\bin\Debug\ShopBanHoa.BUS.pdb
+C:\Users\PC\Downloads\New folder (44)\CNPM_CUOIKY\bin\Debug\ShopBanHoa.DAO.pdb
+C:\Users\PC\Downloads\New folder (44)\CNPM_CUOIKY\bin\Debug\ShopBanHoa.DTO.pdb
+C:\Users\PC\Downloads\New folder (44)\CNPM_CUOIKY\bin\Debug\ShopBanHoa.pdb
+C:\Users\PC\Downloads\New folder (44)\CNPM_CUOIKY\bin\Debug\ShopBanHoa.exe.config
+C:\Users\PC\Downloads\New folder (44)\CNPM_CUOIKY\obj\Debug\QuanLyHoa.csproj.AssemblyReference.cache
+C:\Users\PC\Downloads\New folder (44)\CNPM_CUOIKY\obj\Debug\WindowsFormsApp1.fKhachHang.resources
+C:\Users\PC\Downloads\New folder (44)\CNPM_CUOIKY\obj\Debug\WindowsFormsApp1.App.fNhanVienBanHang.resources
+C:\Users\PC\Downloads\New folder (44)\CNPM_CUOIKY\obj\Debug\WindowsFormsApp1.fThanhToanOnline.resources
+C:\Users\PC\Downloads\New folder (44)\CNPM_CUOIKY\obj\Debug\WindowsFormsApp1.LoginForm.resources
+C:\Users\PC\Downloads\New folder (44)\CNPM_CUOIKY\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\PC\Downloads\New folder (44)\CNPM_CUOIKY\obj\Debug\QuanLyHoa.csproj.GenerateResource.cache
+C:\Users\PC\Downloads\New folder (44)\CNPM_CUOIKY\obj\Debug\QuanLyHoa.csproj.CoreCompileInputs.cache
+C:\Users\PC\Downloads\New folder (44)\CNPM_CUOIKY\obj\Debug\QuanLyHoa.csproj.CopyComplete
+C:\Users\PC\Downloads\New folder (44)\CNPM_CUOIKY\obj\Debug\WindowsFormsApp1.exe
+C:\Users\PC\Downloads\New folder (44)\CNPM_CUOIKY\obj\Debug\WindowsFormsApp1.pdb

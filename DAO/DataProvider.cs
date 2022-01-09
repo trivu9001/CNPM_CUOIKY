@@ -9,7 +9,7 @@ namespace DAO
 {
     public class DataProvider
     {
-        private const string cnStr = "Data Source=ADMIN;Initial Catalog=QUANLYCUAHANGBANHOA;Integrated Security=True";
+        private const string cnStr = "Data Source=.\\SQLEXPRESS;Initial Catalog=QUANLYCUAHANGBANHOA;Integrated Security=True";
         private SqlConnection cn;
 
         public DataProvider()

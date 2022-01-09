@@ -97,3 +97,39 @@ C:\Users\PC\Downloads\New folder (41)\DAO\obj\Debug\DAO.csproj.CoreCompileInputs
 C:\Users\PC\Downloads\New folder (41)\DAO\obj\Debug\DAO.csproj.CopyComplete
 C:\Users\PC\Downloads\New folder (41)\DAO\obj\Debug\DAO.dll
 C:\Users\PC\Downloads\New folder (41)\DAO\obj\Debug\DAO.pdb
+D:\me\Công nghệ phần mềm\Final report\Demo\CNPM_CUOIKY-main\DAO\bin\Debug\DAO.dll
+D:\me\Công nghệ phần mềm\Final report\Demo\CNPM_CUOIKY-main\DAO\bin\Debug\DAO.pdb
+D:\me\Công nghệ phần mềm\Final report\Demo\CNPM_CUOIKY-main\DAO\bin\Debug\DTO.dll
+D:\me\Công nghệ phần mềm\Final report\Demo\CNPM_CUOIKY-main\DAO\bin\Debug\ShopBanHoa.BUS.dll
+D:\me\Công nghệ phần mềm\Final report\Demo\CNPM_CUOIKY-main\DAO\bin\Debug\ShopBanHoa.DAO.dll
+D:\me\Công nghệ phần mềm\Final report\Demo\CNPM_CUOIKY-main\DAO\bin\Debug\ShopBanHoa.DTO.dll
+D:\me\Công nghệ phần mềm\Final report\Demo\CNPM_CUOIKY-main\DAO\bin\Debug\ShopBanHoa.exe
+D:\me\Công nghệ phần mềm\Final report\Demo\CNPM_CUOIKY-main\DAO\bin\Debug\ShopBanHoa.BUS.pdb
+D:\me\Công nghệ phần mềm\Final report\Demo\CNPM_CUOIKY-main\DAO\bin\Debug\ShopBanHoa.DAO.pdb
+D:\me\Công nghệ phần mềm\Final report\Demo\CNPM_CUOIKY-main\DAO\bin\Debug\ShopBanHoa.DTO.pdb
+D:\me\Công nghệ phần mềm\Final report\Demo\CNPM_CUOIKY-main\DAO\bin\Debug\ShopBanHoa.pdb
+D:\me\Công nghệ phần mềm\Final report\Demo\CNPM_CUOIKY-main\DAO\bin\Debug\ShopBanHoa.exe.config
+D:\me\Công nghệ phần mềm\Final report\Demo\CNPM_CUOIKY-main\DAO\bin\Debug\DTO.pdb
+D:\me\Công nghệ phần mềm\Final report\Demo\CNPM_CUOIKY-main\DAO\obj\Debug\DAO.csproj.AssemblyReference.cache
+D:\me\Công nghệ phần mềm\Final report\Demo\CNPM_CUOIKY-main\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+D:\me\Công nghệ phần mềm\Final report\Demo\CNPM_CUOIKY-main\DAO\obj\Debug\DAO.csproj.CopyComplete
+D:\me\Công nghệ phần mềm\Final report\Demo\CNPM_CUOIKY-main\DAO\obj\Debug\DAO.dll
+D:\me\Công nghệ phần mềm\Final report\Demo\CNPM_CUOIKY-main\DAO\obj\Debug\DAO.pdb
+C:\Users\PC\Downloads\New folder (44)\DAO\bin\Debug\DAO.dll
+C:\Users\PC\Downloads\New folder (44)\DAO\bin\Debug\DAO.pdb
+C:\Users\PC\Downloads\New folder (44)\DAO\bin\Debug\DTO.dll
+C:\Users\PC\Downloads\New folder (44)\DAO\bin\Debug\ShopBanHoa.BUS.dll
+C:\Users\PC\Downloads\New folder (44)\DAO\bin\Debug\ShopBanHoa.DAO.dll
+C:\Users\PC\Downloads\New folder (44)\DAO\bin\Debug\ShopBanHoa.DTO.dll
+C:\Users\PC\Downloads\New folder (44)\DAO\bin\Debug\ShopBanHoa.exe
+C:\Users\PC\Downloads\New folder (44)\DAO\bin\Debug\ShopBanHoa.BUS.pdb
+C:\Users\PC\Downloads\New folder (44)\DAO\bin\Debug\ShopBanHoa.DAO.pdb
+C:\Users\PC\Downloads\New folder (44)\DAO\bin\Debug\ShopBanHoa.DTO.pdb
+C:\Users\PC\Downloads\New folder (44)\DAO\bin\Debug\ShopBanHoa.pdb
+C:\Users\PC\Downloads\New folder (44)\DAO\bin\Debug\ShopBanHoa.exe.config
+C:\Users\PC\Downloads\New folder (44)\DAO\bin\Debug\DTO.pdb
+C:\Users\PC\Downloads\New folder (44)\DAO\obj\Debug\DAO.csproj.AssemblyReference.cache
+C:\Users\PC\Downloads\New folder (44)\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+C:\Users\PC\Downloads\New folder (44)\DAO\obj\Debug\DAO.csproj.CopyComplete
+C:\Users\PC\Downloads\New folder (44)\DAO\obj\Debug\DAO.dll
+C:\Users\PC\Downloads\New folder (44)\DAO\obj\Debug\DAO.pdb

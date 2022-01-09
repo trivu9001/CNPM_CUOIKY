@@ -133,3 +133,41 @@ C:\Users\PC\Downloads\New folder (38)\CNPM_CUOIKY\CNPM_CUOIKY\CNPM_CUOIKY\ShopBa
 C:\Users\PC\Downloads\New folder (38)\CNPM_CUOIKY\CNPM_CUOIKY\CNPM_CUOIKY\ShopBanHoa\ShopBanHoa\bin\Debug\ShopBanHoa.DAO.pdb
 C:\Users\PC\Downloads\New folder (38)\CNPM_CUOIKY\CNPM_CUOIKY\CNPM_CUOIKY\ShopBanHoa\ShopBanHoa\bin\Debug\ShopBanHoa.DTO.pdb
 C:\Users\PC\Downloads\New folder (38)\CNPM_CUOIKY\CNPM_CUOIKY\CNPM_CUOIKY\ShopBanHoa\ShopBanHoa\obj\Debug\ShopBanHoa.csproj.CopyComplete
+D:\me\Công nghệ phần mềm\Final report\Demo\CNPM_CUOIKY-main\CNPM_CUOIKY\ShopBanHoa\ShopBanHoa\bin\Debug\ShopBanHoa.exe.config
+D:\me\Công nghệ phần mềm\Final report\Demo\CNPM_CUOIKY-main\CNPM_CUOIKY\ShopBanHoa\ShopBanHoa\bin\Debug\ShopBanHoa.exe
+D:\me\Công nghệ phần mềm\Final report\Demo\CNPM_CUOIKY-main\CNPM_CUOIKY\ShopBanHoa\ShopBanHoa\bin\Debug\ShopBanHoa.pdb
+D:\me\Công nghệ phần mềm\Final report\Demo\CNPM_CUOIKY-main\CNPM_CUOIKY\ShopBanHoa\ShopBanHoa\bin\Debug\ShopBanHoa.BUS.dll
+D:\me\Công nghệ phần mềm\Final report\Demo\CNPM_CUOIKY-main\CNPM_CUOIKY\ShopBanHoa\ShopBanHoa\bin\Debug\ShopBanHoa.DAO.dll
+D:\me\Công nghệ phần mềm\Final report\Demo\CNPM_CUOIKY-main\CNPM_CUOIKY\ShopBanHoa\ShopBanHoa\bin\Debug\ShopBanHoa.DTO.dll
+D:\me\Công nghệ phần mềm\Final report\Demo\CNPM_CUOIKY-main\CNPM_CUOIKY\ShopBanHoa\ShopBanHoa\bin\Debug\ShopBanHoa.BUS.pdb
+D:\me\Công nghệ phần mềm\Final report\Demo\CNPM_CUOIKY-main\CNPM_CUOIKY\ShopBanHoa\ShopBanHoa\bin\Debug\ShopBanHoa.DAO.pdb
+D:\me\Công nghệ phần mềm\Final report\Demo\CNPM_CUOIKY-main\CNPM_CUOIKY\ShopBanHoa\ShopBanHoa\bin\Debug\ShopBanHoa.DTO.pdb
+D:\me\Công nghệ phần mềm\Final report\Demo\CNPM_CUOIKY-main\CNPM_CUOIKY\ShopBanHoa\ShopBanHoa\obj\Debug\ShopBanHoa.csproj.AssemblyReference.cache
+D:\me\Công nghệ phần mềm\Final report\Demo\CNPM_CUOIKY-main\CNPM_CUOIKY\ShopBanHoa\ShopBanHoa\obj\Debug\ShopBanHoa.ChiTietSanPham.resources
+D:\me\Công nghệ phần mềm\Final report\Demo\CNPM_CUOIKY-main\CNPM_CUOIKY\ShopBanHoa\ShopBanHoa\obj\Debug\ShopBanHoa.QuanLySanPham.resources
+D:\me\Công nghệ phần mềm\Final report\Demo\CNPM_CUOIKY-main\CNPM_CUOIKY\ShopBanHoa\ShopBanHoa\obj\Debug\ShopBanHoa.ThemSanPham.resources
+D:\me\Công nghệ phần mềm\Final report\Demo\CNPM_CUOIKY-main\CNPM_CUOIKY\ShopBanHoa\ShopBanHoa\obj\Debug\ShopBanHoa.Properties.Resources.resources
+D:\me\Công nghệ phần mềm\Final report\Demo\CNPM_CUOIKY-main\CNPM_CUOIKY\ShopBanHoa\ShopBanHoa\obj\Debug\ShopBanHoa.csproj.GenerateResource.cache
+D:\me\Công nghệ phần mềm\Final report\Demo\CNPM_CUOIKY-main\CNPM_CUOIKY\ShopBanHoa\ShopBanHoa\obj\Debug\ShopBanHoa.csproj.CoreCompileInputs.cache
+D:\me\Công nghệ phần mềm\Final report\Demo\CNPM_CUOIKY-main\CNPM_CUOIKY\ShopBanHoa\ShopBanHoa\obj\Debug\ShopBanHoa.csproj.CopyComplete
+D:\me\Công nghệ phần mềm\Final report\Demo\CNPM_CUOIKY-main\CNPM_CUOIKY\ShopBanHoa\ShopBanHoa\obj\Debug\ShopBanHoa.exe
+D:\me\Công nghệ phần mềm\Final report\Demo\CNPM_CUOIKY-main\CNPM_CUOIKY\ShopBanHoa\ShopBanHoa\obj\Debug\ShopBanHoa.pdb
+C:\Users\PC\Downloads\New folder (44)\CNPM_CUOIKY\ShopBanHoa\ShopBanHoa\bin\Debug\ShopBanHoa.exe.config
+C:\Users\PC\Downloads\New folder (44)\CNPM_CUOIKY\ShopBanHoa\ShopBanHoa\bin\Debug\ShopBanHoa.exe
+C:\Users\PC\Downloads\New folder (44)\CNPM_CUOIKY\ShopBanHoa\ShopBanHoa\bin\Debug\ShopBanHoa.pdb
+C:\Users\PC\Downloads\New folder (44)\CNPM_CUOIKY\ShopBanHoa\ShopBanHoa\bin\Debug\ShopBanHoa.BUS.dll
+C:\Users\PC\Downloads\New folder (44)\CNPM_CUOIKY\ShopBanHoa\ShopBanHoa\bin\Debug\ShopBanHoa.DAO.dll
+C:\Users\PC\Downloads\New folder (44)\CNPM_CUOIKY\ShopBanHoa\ShopBanHoa\bin\Debug\ShopBanHoa.DTO.dll
+C:\Users\PC\Downloads\New folder (44)\CNPM_CUOIKY\ShopBanHoa\ShopBanHoa\bin\Debug\ShopBanHoa.BUS.pdb
+C:\Users\PC\Downloads\New folder (44)\CNPM_CUOIKY\ShopBanHoa\ShopBanHoa\bin\Debug\ShopBanHoa.DAO.pdb
+C:\Users\PC\Downloads\New folder (44)\CNPM_CUOIKY\ShopBanHoa\ShopBanHoa\bin\Debug\ShopBanHoa.DTO.pdb
+C:\Users\PC\Downloads\New folder (44)\CNPM_CUOIKY\ShopBanHoa\ShopBanHoa\obj\Debug\ShopBanHoa.csproj.AssemblyReference.cache
+C:\Users\PC\Downloads\New folder (44)\CNPM_CUOIKY\ShopBanHoa\ShopBanHoa\obj\Debug\ShopBanHoa.ChiTietSanPham.resources
+C:\Users\PC\Downloads\New folder (44)\CNPM_CUOIKY\ShopBanHoa\ShopBanHoa\obj\Debug\ShopBanHoa.QuanLySanPham.resources
+C:\Users\PC\Downloads\New folder (44)\CNPM_CUOIKY\ShopBanHoa\ShopBanHoa\obj\Debug\ShopBanHoa.ThemSanPham.resources
+C:\Users\PC\Downloads\New folder (44)\CNPM_CUOIKY\ShopBanHoa\ShopBanHoa\obj\Debug\ShopBanHoa.Properties.Resources.resources
+C:\Users\PC\Downloads\New folder (44)\CNPM_CUOIKY\ShopBanHoa\ShopBanHoa\obj\Debug\ShopBanHoa.csproj.GenerateResource.cache
+C:\Users\PC\Downloads\New folder (44)\CNPM_CUOIKY\ShopBanHoa\ShopBanHoa\obj\Debug\ShopBanHoa.csproj.CoreCompileInputs.cache
+C:\Users\PC\Downloads\New folder (44)\CNPM_CUOIKY\ShopBanHoa\ShopBanHoa\obj\Debug\ShopBanHoa.csproj.CopyComplete
+C:\Users\PC\Downloads\New folder (44)\CNPM_CUOIKY\ShopBanHoa\ShopBanHoa\obj\Debug\ShopBanHoa.exe
+C:\Users\PC\Downloads\New folder (44)\CNPM_CUOIKY\ShopBanHoa\ShopBanHoa\obj\Debug\ShopBanHoa.pdb

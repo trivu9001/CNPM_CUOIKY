@@ -12,12 +12,12 @@ using WindowsFormsApp1.BUS;
 using WindowsFormsApp1.DAO;
 using WindowsFormsApp1.DTO;
 
-namespace WindowsFormsApp1
+namespace WindowsFormsApp1.App
 {
-    public partial class fKhachHang : Form
+    public partial class fNhanVienBanHang : Form
     {
 
-        public fKhachHang()
+        public fNhanVienBanHang()
         {
             //LOAD DANH SÁCH CÁC SẢN PHẨM LÊN CÁC TAB
             InitializeComponent();
@@ -27,8 +27,7 @@ namespace WindowsFormsApp1
         }
         //load các sản phẩm vào trong datagridview
         void LoadList()
-        { 
-           
+        {
 
             //string query = "SELECT * FROM TAIKHOAN";
             //DataTable data = DataProvider.Instance.ExecuteQuery(query);
@@ -37,7 +36,7 @@ namespace WindowsFormsApp1
         }
         private void button1_Click(object sender, EventArgs e)
         {
-            
+
         }
 
         private void tabPage1_Click(object sender, EventArgs e)
@@ -53,7 +52,7 @@ namespace WindowsFormsApp1
 
         private void numericUpDown1_ValueChanged(object sender, EventArgs e)
         {
-           
+
         }
 
         private void label3_Click(object sender, EventArgs e)
@@ -72,13 +71,14 @@ namespace WindowsFormsApp1
             loadTimKiem();
 
         }
-        private void loadTimKiem() {
+        private void loadTimKiem()
+        {
             string c = textLoai_Search.Text.ToString();
             string b = textTenSP_Search.Text.ToString();
             string a = textMaSP_search.Text.ToString();
-  
+
             List<SanPham> SanPhamList = SanPhamBUS.Instance.loadTimKiem(a, b, c);
-               
+
             foreach (SanPham item in SanPhamList)
             {
                 //CHUYỂN DỮ LIỆU THÀNH CÁC NÚT
@@ -123,9 +123,9 @@ namespace WindowsFormsApp1
                 //CHUYỂN DỮ LIỆU THÀNH CÁC NÚT
                 Button btn = new Button() { Width = (int)SanPhamBUS.SanPhamWidth, Height = (int)SanPhamBUS.SanPhamHeight };
                 //SET CÁC THUỘC TÍNH CÁC BUTTON ĐỂ HIỂN THỊ HOA
-                btn.Text = item.MaSanPham + Environment.NewLine + item.TenSanPham + Environment.NewLine + item.LoaiSanPham + Environment.NewLine + item.GiaBan + Environment.NewLine+ item.SoLuong;
+                btn.Text = item.MaSanPham + Environment.NewLine + item.TenSanPham + Environment.NewLine + item.LoaiSanPham + Environment.NewLine + item.GiaBan + Environment.NewLine + item.SoLuong;
                 btn.BackColor = Color.DeepSkyBlue;
-                btn.Font= new Font("Bahnschrift", 10, FontStyle.Bold);
+                btn.Font = new Font("Bahnschrift", 10, FontStyle.Bold);
                 btn.ForeColor = Color.White;
                 btn.Click += Btn_Click;
                 btn.Tag = item;
@@ -147,7 +147,7 @@ namespace WindowsFormsApp1
                 textTenSP.Font = new Font("Bahnschrift", 10, FontStyle.Bold);
                 textGia.Text = ((sender as Button).Tag as SanPham).GiaBan.ToString();
                 textGia.Font = new Font("Bahnschrift", 10, FontStyle.Bold);
-                textLoai.Text= ((sender as Button).Tag as SanPham).LoaiSanPham.ToString();
+                textLoai.Text = ((sender as Button).Tag as SanPham).LoaiSanPham.ToString();
                 textLoai.Font = new Font("Bahnschrift", 10, FontStyle.Bold);
             }
             //textMaSP_themGioHang.Text = a; ;
@@ -162,7 +162,7 @@ namespace WindowsFormsApp1
         void LoadChiTietGioHang()
         {
             List<ChiTietGioHang> GioHangList = ChiTietGioHangBUS.Instance.LoadChiTietGioHang();
-            
+
             foreach (ChiTietGioHang item in GioHangList)
             {
                 //CHUYỂN DỮ LIỆU THÀNH CÁC NÚT
@@ -216,8 +216,8 @@ namespace WindowsFormsApp1
         private void button6_Click(object sender, EventArgs e)
         {
             string a = textMaSP_themGioHang.Text;
-            int b =(int)numericUpDown1.Value;
-            int f = ChiTietGioHangBUS.Instance.themVaoGioHang(a,b);
+            int b = (int)numericUpDown1.Value;
+            int f = ChiTietGioHangBUS.Instance.themVaoGioHang(a, b);
             if (f > 0)
             {
                 MessageBox.Show(" THÊM THÀNH CÔNG");
@@ -247,7 +247,7 @@ namespace WindowsFormsApp1
 
         private void textBox1_TextChanged(object sender, EventArgs e)
         {
-            
+
         }
 
         private void label9_Click(object sender, EventArgs e)
@@ -330,7 +330,7 @@ namespace WindowsFormsApp1
             reloadSP();
         }
         //LOAD LẠI TRANG KHI BẤM VÀO NÚT LÀM MỚI
-        
+
         private void btnLamMoi_SanPham_Click(object sender, EventArgs e)
         {
             reloadSP();
@@ -357,7 +357,84 @@ namespace WindowsFormsApp1
 
         }
 
+        private void btnLamMoi_SanPham_Click_1(object sender, EventArgs e)
+        {
+            reloadSP();
+        }
+
         private void textMaSP_search_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button6_Click_1(object sender, EventArgs e)
+        {
+            string a = textMaSP_themGioHang.Text;
+            int b = (int)numericUpDown1.Value;
+            int f = ChiTietGioHangBUS.Instance.themVaoGioHang(a, b);
+            if (f > 0)
+            {
+                MessageBox.Show(" THÊM THÀNH CÔNG");
+            }
+        }
+
+        private void button3_Click_1(object sender, EventArgs e)
+        {
+            string a = textMaSP_themGioHang.Text;
+            int f = ChiTietGioHangBUS.Instance.xoaGioHang(a);
+            if (f > 0)
+            {
+                MessageBox.Show(" XÓA THÀNH CÔNG");
+                flowLayoutPanel2.Controls.Clear();
+                LoadChiTietGioHang();
+            }
+        }
+
+        private void button7_Click_1(object sender, EventArgs e)
+        {
+            //ReloadChiTietGioHang();
+            flowLayoutPanel2.Controls.Clear();
+            LoadChiTietGioHang();
+            HienThiTongTien();
+        }
+
+        private void button4_Click_1(object sender, EventArgs e)
+        {
+            String b = textSoLuong_Update.Text;
+            //textSoLuong_Update.Font = new Font("Bahnschrift", 10, FontStyle.Bold);
+            String a = textMaSP_themGioHang.Text;
+            //textMaSP_themGioHang.Font = new Font("Bahnschrift", 10, FontStyle.Bold);
+            int f = ChiTietGioHangBUS.Instance.updateGioHang(a, b);
+            if (f > 0)
+            {
+                MessageBox.Show("CHỈNH SỬA THÀNH CÔNG");
+                flowLayoutPanel2.Controls.Clear();
+                LoadChiTietGioHang();
+
+            }
+        }
+
+        private void textSoLuong_Update_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button1_Click_2(object sender, EventArgs e)
+        {
+            MessageBox.Show("TẠO HÓA ĐƠN THÀNH CÔNG");
+        }
+
+        private void textBox1_TextChanged_1(object sender, EventArgs e)
+        {
+
+        }
+
+        private void textBox2_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void textTongTien_TextChanged(object sender, EventArgs e)
         {
 
         }

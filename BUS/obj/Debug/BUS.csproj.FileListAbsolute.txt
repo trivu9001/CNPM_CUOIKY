@@ -80,3 +80,42 @@ C:\Users\PC\Downloads\New folder (41)\BUS\obj\Debug\BUS.csproj.CoreCompileInputs
 C:\Users\PC\Downloads\New folder (41)\BUS\obj\Debug\BUS.csproj.CopyComplete
 C:\Users\PC\Downloads\New folder (41)\BUS\obj\Debug\BUS.dll
 C:\Users\PC\Downloads\New folder (41)\BUS\obj\Debug\BUS.pdb
+D:\me\Công nghệ phần mềm\Final report\Demo\CNPM_CUOIKY-main\BUS\bin\Debug\BUS.dll.config
+D:\me\Công nghệ phần mềm\Final report\Demo\CNPM_CUOIKY-main\BUS\bin\Debug\BUS.dll
+D:\me\Công nghệ phần mềm\Final report\Demo\CNPM_CUOIKY-main\BUS\bin\Debug\BUS.pdb
+D:\me\Công nghệ phần mềm\Final report\Demo\CNPM_CUOIKY-main\BUS\bin\Debug\DAO.dll
+D:\me\Công nghệ phần mềm\Final report\Demo\CNPM_CUOIKY-main\BUS\bin\Debug\DTO.dll
+D:\me\Công nghệ phần mềm\Final report\Demo\CNPM_CUOIKY-main\BUS\bin\Debug\Microsoft.Data.Tools.Components.dll
+D:\me\Công nghệ phần mềm\Final report\Demo\CNPM_CUOIKY-main\BUS\bin\Debug\DAO.pdb
+D:\me\Công nghệ phần mềm\Final report\Demo\CNPM_CUOIKY-main\BUS\bin\Debug\DTO.pdb
+D:\me\Công nghệ phần mềm\Final report\Demo\CNPM_CUOIKY-main\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+D:\me\Công nghệ phần mềm\Final report\Demo\CNPM_CUOIKY-main\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\me\Công nghệ phần mềm\Final report\Demo\CNPM_CUOIKY-main\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\me\Công nghệ phần mềm\Final report\Demo\CNPM_CUOIKY-main\BUS\obj\Debug\BUS.dll
+D:\me\Công nghệ phần mềm\Final report\Demo\CNPM_CUOIKY-main\BUS\obj\Debug\BUS.pdb
+C:\Users\PC\Downloads\New folder (45)\CNPM_CUOIKY-main\CNPM_CUOIKY-main\BUS\bin\Debug\BUS.dll.config
+C:\Users\PC\Downloads\New folder (45)\CNPM_CUOIKY-main\CNPM_CUOIKY-main\BUS\bin\Debug\BUS.dll
+C:\Users\PC\Downloads\New folder (45)\CNPM_CUOIKY-main\CNPM_CUOIKY-main\BUS\bin\Debug\BUS.pdb
+C:\Users\PC\Downloads\New folder (45)\CNPM_CUOIKY-main\CNPM_CUOIKY-main\BUS\bin\Debug\DAO.dll
+C:\Users\PC\Downloads\New folder (45)\CNPM_CUOIKY-main\CNPM_CUOIKY-main\BUS\bin\Debug\DTO.dll
+C:\Users\PC\Downloads\New folder (45)\CNPM_CUOIKY-main\CNPM_CUOIKY-main\BUS\bin\Debug\Microsoft.Data.Tools.Components.dll
+C:\Users\PC\Downloads\New folder (45)\CNPM_CUOIKY-main\CNPM_CUOIKY-main\BUS\bin\Debug\DAO.pdb
+C:\Users\PC\Downloads\New folder (45)\CNPM_CUOIKY-main\CNPM_CUOIKY-main\BUS\bin\Debug\DTO.pdb
+C:\Users\PC\Downloads\New folder (45)\CNPM_CUOIKY-main\CNPM_CUOIKY-main\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+C:\Users\PC\Downloads\New folder (45)\CNPM_CUOIKY-main\CNPM_CUOIKY-main\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\PC\Downloads\New folder (45)\CNPM_CUOIKY-main\CNPM_CUOIKY-main\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\PC\Downloads\New folder (45)\CNPM_CUOIKY-main\CNPM_CUOIKY-main\BUS\obj\Debug\BUS.dll
+C:\Users\PC\Downloads\New folder (45)\CNPM_CUOIKY-main\CNPM_CUOIKY-main\BUS\obj\Debug\BUS.pdb
+C:\Users\PC\Downloads\New folder (44)\BUS\bin\Debug\BUS.dll.config
+C:\Users\PC\Downloads\New folder (44)\BUS\bin\Debug\BUS.dll
+C:\Users\PC\Downloads\New folder (44)\BUS\bin\Debug\BUS.pdb
+C:\Users\PC\Downloads\New folder (44)\BUS\bin\Debug\DAO.dll
+C:\Users\PC\Downloads\New folder (44)\BUS\bin\Debug\DTO.dll
+C:\Users\PC\Downloads\New folder (44)\BUS\bin\Debug\Microsoft.Data.Tools.Components.dll
+C:\Users\PC\Downloads\New folder (44)\BUS\bin\Debug\DAO.pdb
+C:\Users\PC\Downloads\New folder (44)\BUS\bin\Debug\DTO.pdb
+C:\Users\PC\Downloads\New folder (44)\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+C:\Users\PC\Downloads\New folder (44)\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\PC\Downloads\New folder (44)\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\PC\Downloads\New folder (44)\BUS\obj\Debug\BUS.dll
+C:\Users\PC\Downloads\New folder (44)\BUS\obj\Debug\BUS.pdb

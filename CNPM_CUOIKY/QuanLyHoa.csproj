@@ -49,6 +49,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="App\fNhanVienBanHang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="App\fNhanVienBanHang.Designer.cs">
+      <DependentUpon>fNhanVienBanHang.cs</DependentUpon>
+    </Compile>
     <Compile Include="BUS\ChiTietGioHangBUS.cs" />
     <Compile Include="BUS\SanPhamBUS.cs" />
     <Compile Include="DTO\ChiTietGioHang.cs" />
@@ -90,6 +96,9 @@
     <Compile Include="DAO\SanPhamDAO.cs" />
     <EmbeddedResource Include="App\fKhachHang.resx">
       <DependentUpon>fKhachHang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="App\fNhanVienBanHang.resx">
+      <DependentUpon>fNhanVienBanHang.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="App\fThanhToanOnline.resx">
       <DependentUpon>fThanhToanOnline.cs</DependentUpon>

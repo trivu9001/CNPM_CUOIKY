@@ -43,3 +43,21 @@ D:\cnpm\2\CNPM_CUOIKY\CNPM_CUOIKY\CNPM_CUOIKY\ShopBanHoa\ShopBanHoa.DAO\obj\Debu
 D:\cnpm\2\CNPM_CUOIKY\CNPM_CUOIKY\CNPM_CUOIKY\ShopBanHoa\ShopBanHoa.DAO\obj\Debug\ShopBanHoa.DAO.csproj.CopyComplete
 D:\cnpm\2\CNPM_CUOIKY\CNPM_CUOIKY\CNPM_CUOIKY\ShopBanHoa\ShopBanHoa.DAO\obj\Debug\ShopBanHoa.DAO.dll
 D:\cnpm\2\CNPM_CUOIKY\CNPM_CUOIKY\CNPM_CUOIKY\ShopBanHoa\ShopBanHoa.DAO\obj\Debug\ShopBanHoa.DAO.pdb
+D:\me\Công nghệ phần mềm\Final report\Demo\CNPM_CUOIKY-main\CNPM_CUOIKY\ShopBanHoa\ShopBanHoa.DAO\bin\Debug\ShopBanHoa.DAO.dll
+D:\me\Công nghệ phần mềm\Final report\Demo\CNPM_CUOIKY-main\CNPM_CUOIKY\ShopBanHoa\ShopBanHoa.DAO\bin\Debug\ShopBanHoa.DAO.pdb
+D:\me\Công nghệ phần mềm\Final report\Demo\CNPM_CUOIKY-main\CNPM_CUOIKY\ShopBanHoa\ShopBanHoa.DAO\bin\Debug\ShopBanHoa.DTO.dll
+D:\me\Công nghệ phần mềm\Final report\Demo\CNPM_CUOIKY-main\CNPM_CUOIKY\ShopBanHoa\ShopBanHoa.DAO\bin\Debug\ShopBanHoa.DTO.pdb
+D:\me\Công nghệ phần mềm\Final report\Demo\CNPM_CUOIKY-main\CNPM_CUOIKY\ShopBanHoa\ShopBanHoa.DAO\obj\Debug\ShopBanHoa.DAO.csproj.AssemblyReference.cache
+D:\me\Công nghệ phần mềm\Final report\Demo\CNPM_CUOIKY-main\CNPM_CUOIKY\ShopBanHoa\ShopBanHoa.DAO\obj\Debug\ShopBanHoa.DAO.csproj.CoreCompileInputs.cache
+D:\me\Công nghệ phần mềm\Final report\Demo\CNPM_CUOIKY-main\CNPM_CUOIKY\ShopBanHoa\ShopBanHoa.DAO\obj\Debug\ShopBanHoa.DAO.csproj.CopyComplete
+D:\me\Công nghệ phần mềm\Final report\Demo\CNPM_CUOIKY-main\CNPM_CUOIKY\ShopBanHoa\ShopBanHoa.DAO\obj\Debug\ShopBanHoa.DAO.dll
+D:\me\Công nghệ phần mềm\Final report\Demo\CNPM_CUOIKY-main\CNPM_CUOIKY\ShopBanHoa\ShopBanHoa.DAO\obj\Debug\ShopBanHoa.DAO.pdb
+C:\Users\PC\Downloads\New folder (44)\CNPM_CUOIKY\ShopBanHoa\ShopBanHoa.DAO\bin\Debug\ShopBanHoa.DAO.dll
+C:\Users\PC\Downloads\New folder (44)\CNPM_CUOIKY\ShopBanHoa\ShopBanHoa.DAO\bin\Debug\ShopBanHoa.DAO.pdb
+C:\Users\PC\Downloads\New folder (44)\CNPM_CUOIKY\ShopBanHoa\ShopBanHoa.DAO\bin\Debug\ShopBanHoa.DTO.dll
+C:\Users\PC\Downloads\New folder (44)\CNPM_CUOIKY\ShopBanHoa\ShopBanHoa.DAO\bin\Debug\ShopBanHoa.DTO.pdb
+C:\Users\PC\Downloads\New folder (44)\CNPM_CUOIKY\ShopBanHoa\ShopBanHoa.DAO\obj\Debug\ShopBanHoa.DAO.csproj.AssemblyReference.cache
+C:\Users\PC\Downloads\New folder (44)\CNPM_CUOIKY\ShopBanHoa\ShopBanHoa.DAO\obj\Debug\ShopBanHoa.DAO.csproj.CoreCompileInputs.cache
+C:\Users\PC\Downloads\New folder (44)\CNPM_CUOIKY\ShopBanHoa\ShopBanHoa.DAO\obj\Debug\ShopBanHoa.DAO.csproj.CopyComplete
+C:\Users\PC\Downloads\New folder (44)\CNPM_CUOIKY\ShopBanHoa\ShopBanHoa.DAO\obj\Debug\ShopBanHoa.DAO.dll
+C:\Users\PC\Downloads\New folder (44)\CNPM_CUOIKY\ShopBanHoa\ShopBanHoa.DAO\obj\Debug\ShopBanHoa.DAO.pdb
