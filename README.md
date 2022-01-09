@@ -17,10 +17,10 @@ DataProvider.cs (trong folder DAO) dòng 12 và file QuanLyNhanVien.cs (trong fo
 Trong folder CNPM_CUOIKY => folder DAO => Dataprovider.cs dòng thứ 26
 
 
-ShopBanHoa/QuanLySanPham.cs => Thay đổi DataSource ở dòng 51
+Trong folder CNPM_CUOIKY=>ShopBanHoa/ShopBanHoa/QuanLySanPham.cs => Thay đổi DataSource ở dòng 51
 
 
-ShopBanHoa.DAO/DataProvider.cs => Thay đổi DataSource ở dòng 9
+Trong folder CNPM_CUOIKY=>ShopBanHoa/ShopBanHoa.DAO/DataProvider.cs => Thay đổi DataSource ở dòng 9
 
 B4:
 
